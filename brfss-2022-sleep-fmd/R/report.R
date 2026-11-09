@@ -161,7 +161,7 @@ write_key_strings <- function(estimates, audit, path) {
 
 check_case_study <- function(study_root) {
   key_path <- file.path(study_root, "output", "key-strings.txt")
-  qmd <- file.path(study_root, "..", "..", "notebooks", "brfss-2022-sleep-fmd", "case-study.qmd")
+  qmd <- file.path(study_root, "docs", "case-study.qmd")
   qmd <- normalizePath(qmd, mustWork = FALSE)
   if (!file.exists(key_path)) stop("key-strings.txt is missing. Run the estimation first.")
   if (!file.exists(qmd)) stop("Case study is missing: ", qmd)

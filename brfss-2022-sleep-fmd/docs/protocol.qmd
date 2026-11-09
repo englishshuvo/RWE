@@ -30,7 +30,7 @@ Transport file: [LLCP2022XPT.zip](https://www.cdc.gov/brfss/annual_data/2022/fil
 
 I use the combined file, not the versioned module files. The CDC design guide says that core-only analyses use `_LLCPWT`, `_STSTR`, and `_PSU` on `LLCP2022`. Usual sleep (`SLEPTIM1`) is core section 5, question 1. Days of poor mental health (`MENTHLTH`) is core section 2. Both are asked in every interview, so a module weight would be the wrong weight.
 
-The landing page states that the 2022 file has 445,132 records and includes the 50 states, the District of Columbia, Guam, Puerto Rico, and the US Virgin Islands. The pipeline checks that count against the downloaded file and stops if it does not match. Checksums, the retrieval time, and the column count are written to `studies/brfss-2022-sleep-fmd/output/provenance.json`.
+The landing page states that the 2022 file has 445,132 records and includes the 50 states, the District of Columbia, Guam, Puerto Rico, and the US Virgin Islands. The pipeline checks that count against the downloaded file and stops if it does not match. Checksums, the retrieval time, and the column count are written to `brfss-2022-sleep-fmd/output/provenance.json`.
 
 Respondent-level data are downloaded locally and are not committed. The repository keeps the code, the audit, and aggregate estimates.
 

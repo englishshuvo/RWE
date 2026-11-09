@@ -6,13 +6,13 @@ date: last-modified
 
 This plan is the operational companion to the [protocol](protocol.qmd). Version 1.0 is the version the pipeline implements. If a later change is required after an estimate exists, it goes in an amendment with a date, not into this text as if it had been the original rule.
 
-The code that implements this plan is `studies/brfss-2022-sleep-fmd/`. The single run command is:
+The code that implements this plan is `brfss-2022-sleep-fmd/`. The single run command is:
 
 ```bash
-Rscript studies/brfss-2022-sleep-fmd/run.R
+Rscript brfss-2022-sleep-fmd/run.R
 ```
 
-That command runs the unit tests, downloads or verifies the file, audits the schema and the design, fits the contrasts, and writes aggregate output. `Rscript studies/brfss-2022-sleep-fmd/run.R audit` stops before any contrast. `Rscript studies/brfss-2022-sleep-fmd/run.R test` runs only the tests.
+That command runs the unit tests, downloads or verifies the file, audits the schema and the design, fits the contrasts, and writes aggregate output. `Rscript brfss-2022-sleep-fmd/run.R audit` stops before any contrast. `Rscript brfss-2022-sleep-fmd/run.R test` runs only the tests.
 
 ## Software
 
@@ -132,7 +132,7 @@ Lower difference = lower short prevalence minus upper reference prevalence. Uppe
 
 ## Outputs
 
-Aggregate files only, under `studies/brfss-2022-sleep-fmd/output/`:
+Aggregate files only, under `brfss-2022-sleep-fmd/output/`:
 
 - `provenance.json`, `schema-audit.json`
 - `sample-flow.csv`, `missingness.csv`

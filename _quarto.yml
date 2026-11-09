@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - brfss-2022-sleep-fmd/docs/case-study.qmd
+    - brfss-2022-sleep-fmd/docs/protocol.qmd
+    - brfss-2022-sleep-fmd/docs/sap.qmd
+    - brfss-2022-sleep-fmd/docs/amendments.qmd
+
+website:
+  title: "Real-world evidence"
+  navbar:
+    left:
+      - href: brfss-2022-sleep-fmd/docs/case-study.qmd
+        text: Case study
+      - href: brfss-2022-sleep-fmd/docs/protocol.qmd
+        text: Protocol
+      - href: brfss-2022-sleep-fmd/docs/sap.qmd
+        text: Analysis plan
+      - href: brfss-2022-sleep-fmd/docs/amendments.qmd
+        text: Amendments
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    embed-resources: false

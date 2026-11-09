@@ -1,5 +1,5 @@
 # One command, from the repository root:
-#   Rscript studies/brfss-2022-sleep-fmd/run.R
+#   Rscript brfss-2022-sleep-fmd/run.R
 # Stages: test, audit, estimate, all (default). all runs tests, then audit, then estimates.
 # Respondent-level files stay under data/ and are not committed.
 
@@ -124,7 +124,7 @@ provenance <- list(
     ggplot2 = pkg_version("ggplot2"),
     jsonlite = pkg_version("jsonlite")
   ),
-  quarto_note = "Case study is rendered with the Quarto version pinned in .github/workflows/publish.yml (1.10.18) when that binary is available."
+  quarto_note = "Case study renders with Quarto from brfss-2022-sleep-fmd/docs. The committed estimates were rendered with Quarto 1.10.18."
 )
 
 if (stage == "audit") {

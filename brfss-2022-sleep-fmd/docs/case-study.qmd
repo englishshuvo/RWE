@@ -14,7 +14,7 @@ In the primary sample, frequent mental distress was 23.43% (95% CI 22.97% to 23.
 
 The difference is 12.82 percentage points (95% CI 12.29 to 13.35). The prevalence in the short-sleep group is 2.209 times the prevalence in the 7 to 9 hour group (95% CI 2.141 to 2.277). That ratio is a ratio of the two prevalences. The odds ratio from the age and sex model is a different number, and it is reported further down so the two are not swapped.
 
-![Frequent mental distress by usual hours of sleep, BRFSS 2022](../../studies/brfss-2022-sleep-fmd/output/figure-primary.png)
+![Frequent mental distress by usual hours of sleep, BRFSS 2022](../output/figure-primary.png)
 
 Adults reporting 10 to 24 hours, who are not in the contrast, had a descriptive prevalence of 24.39% (95% CI 22.92% to 25.87%). I prespecified that group as context. I did not test it. The pattern on the figure is enough to keep me from reading the primary result as "more sleep, less distress." The long-sleep group is smaller, so its interval is wider, and it sits near the short-sleep group rather than near the 7 to 9 hour group.
 
@@ -104,12 +104,12 @@ For a burden description, the gap is large and stable under the checks I prespec
 From the repository root:
 
 ```bash
-Rscript studies/brfss-2022-sleep-fmd/run.R
+Rscript brfss-2022-sleep-fmd/run.R
 ```
 
-The command tests the recodes and the estimators on fabricated samples, verifies the CDC zip, audits the file, and refits the contrasts. Respondent-level data stay in `data/` and are not in the repository. Aggregate tables, the figure, and `estimates.json` are in `studies/brfss-2022-sleep-fmd/output/`. A simulation coverage check is stored beside them and labeled `simulation_not_brfss`. It is not a BRFSS result. In that check, 80 stratified samples from a finite population with a known difference, the interval covered the truth in 78 samples. Eighty replicates is a coarse Monte Carlo check. The sampling uncertainty on a coverage rate near 95% is a few percentage points at that size, so 78 of 80 is compatible with the nominal level and is not a precise calibration. I did not rerun it to chase a rounder fraction.
+The command tests the recodes and the estimators on fabricated samples, verifies the CDC zip, audits the file, and refits the contrasts. Respondent-level data stay in `data/` and are not in the repository. Aggregate tables, the figure, and `estimates.json` are in `brfss-2022-sleep-fmd/output/`. A simulation coverage check is stored beside them and labeled `simulation_not_brfss`. It is not a BRFSS result. In that check, 80 stratified samples from a finite population with a known difference, the interval covered the truth in 78 samples. Eighty replicates is a coarse Monte Carlo check. The sampling uncertainty on a coverage rate near 95% is a few percentage points at that size, so 78 of 80 is compatible with the nominal level and is not a precise calibration. I did not rerun it to chase a rounder fraction.
 
-The run used R 4.3.3, survey 4.5, haven 2.5.5, ggplot2 4.0.3, and jsonlite 2.0.0. The case study page renders with Quarto 1.10.18, the version pinned for the site.
+The run used R 4.3.3, survey 4.5, haven 2.5.5, ggplot2 4.0.3, and jsonlite 2.0.0. The case study page renders with Quarto. The run that produced these numbers used Quarto 1.10.18.
 
 ## Sources
 
@@ -127,7 +127,7 @@ Centers for Disease Control and Prevention. Overview, BRFSS 2022. Weighting by r
 
 Lumley T. Analysis of complex survey samples. *Journal of Statistical Software*. 2004;9(8):1-19.
 
-The BRFSS microdata and the CDC documentation are works of the United States government. I am not attaching a new license to those files, and I am not adding a license for the rest of this website.
+The BRFSS microdata and the CDC documentation are works of the United States government. I am not attaching a new license to those files. The code in this repository is under the MIT license.
 
 Lumley T. survey: analysis of complex survey samples. R package version 4.5. License: GPL-2 or GPL-3.
 
