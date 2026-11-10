@@ -6,13 +6,16 @@ project:
     - brfss-2022-sleep-fmd/docs/protocol.qmd
     - brfss-2022-sleep-fmd/docs/sap.qmd
     - brfss-2022-sleep-fmd/docs/amendments.qmd
+    - faers-jak-tnf-signals/docs/case-study.qmd
 
 website:
   title: "Real-world evidence"
   navbar:
     left:
       - href: brfss-2022-sleep-fmd/docs/case-study.qmd
-        text: Case study
+        text: Sleep and distress
+      - href: faers-jak-tnf-signals/docs/case-study.qmd
+        text: JAK and TNF
       - href: brfss-2022-sleep-fmd/docs/protocol.qmd
         text: Protocol
       - href: brfss-2022-sleep-fmd/docs/sap.qmd

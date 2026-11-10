@@ -1,0 +1,8 @@
+openFDA drug event API counts of FDA FAERS reports received from 1 January 2019 through 30 September 2026, covering 2019 Q1 through 2026 Q3. The API last_updated field was 28 October 2026. Counts were retrieved 10 November 2026. September 2026 had 125,977 reports and October 2026 had 0 reports.
+The openFDA index holds 11,009,810 reports with a received date in that window.
+Without the indication restriction, the same window has 224,224 JAK reports and 606,504 TNF reports.
+With an immunology indication, 153,044 reports named a JAK inhibitor and 447,934 named a TNF inhibitor. 28,302 named both and are left out of the contrast, leaving 124,742 JAK reports and 419,632 TNF reports.
+JAK versus TNF, venous thromboembolism: ROR 2.27 (95% CI 2.16 to 2.40), PRR 2.25, from 2,275 JAK reports with the outcome among 124,742 JAK reports and 3,401 TNF reports with the outcome among 419,632 TNF reports. The contrast meets the signal rule.
+JAK versus TNF, serious infection: ROR 0.80 (95% CI 0.78 to 0.81), PRR 0.82, from 13,742 JAK reports with the outcome among 124,742 JAK reports and 56,431 TNF reports with the outcome among 419,632 TNF reports. The contrast does not meet the signal rule.
+For venous thromboembolism, the JAK versus TNF ROR was 2.27 (95% CI 2.09 to 2.47) before 1 September 2021 and 2.38 (95% CI 2.22 to 2.55) on or after that date.
+For serious infection, the JAK versus TNF ROR was 0.85 (95% CI 0.82 to 0.88) before 1 September 2021 and 0.78 (95% CI 0.76 to 0.80) on or after that date.
