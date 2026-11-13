@@ -1,0 +1,17 @@
+SEER*Explorer aggregate rates from the SEER November 2025 submission, retrieved 13 November 2026. Incidence is the SEER 21 registries, age-adjusted to the 2000 US standard population, for 2000 through 2023. Five-year relative survival is the SEER 21 registries excluding Illinois. The last diagnosis year with an observed 5-year relative survival in this download is 2018.
+Diffuse large B-cell lymphoma is not a separate cancer site in SEER*Explorer. The lymphoma series in this study is non-Hodgkin lymphoma.
+The approval lines are context. SEER does not record the drug a person received, so a change in survival after an approval is not evidence that the drug caused it.
+Multiple myeloma 5-year relative survival was 35.7% for people diagnosed in 2000 (5,580 cases) and 64.5% for people diagnosed in 2018 (9,186 cases).
+Chronic lymphocytic leukemia 5-year relative survival was 78.7% for people diagnosed in 2000 (4,228 cases) and 90.9% for people diagnosed in 2018 (6,440 cases).
+Non-Hodgkin lymphoma 5-year relative survival was 62.0% for people diagnosed in 2000 (17,852 cases) and 75.4% for people diagnosed in 2018 (22,842 cases).
+Observed age-adjusted incidence in 2023 was 7.6 per 100,000 for myeloma (14,197 cases), 4.8 for CLL (9,054 cases), and 18.4 for non-Hodgkin lymphoma (33,428 cases). In 2000 those rates were 6.1, 4.7, and 19.3.
+Delay-adjusted incidence in 2023 was 8.4 per 100,000 for myeloma, 6.0 for CLL, and 19.3 for non-Hodgkin lymphoma. The delay-adjusted rate sits above the observed rate in the most recent year.
+The 5-year relative survival gap is White (includes Hispanic) minus Black (includes Hispanic). For multiple myeloma the gap was -2.8 percentage points in 2000 and -2.5 percentage points in 2018, so the Black group had the higher survival in both years. For CLL the gap was 12.8 percentage points in 2000 and 6.4 percentage points in 2018. For non-Hodgkin lymphoma the gap was 9.4 percentage points in 2000 and 3.2 percentage points in 2018.
+SEER fit the incidence trends in Joinpoint version 6.0 and left the 2020 rate out of the fit. The published APC is an annual percent change. The survival summary is an average absolute change in percentage points per year, not an annual percent change. A survival segment can end after the last observed 5-year rate because the model uses shorter follow-up.
+Myeloma observed incidence, SEER joinpoint: 2000-2007 APC 0.5% per year (not significant); 2007-2011 APC 2.8% per year (rising); 2011-2019 APC 1.0% per year (rising); 2019-2023 APC -0.8% per year (falling).
+CLL observed incidence, SEER joinpoint: 2000-2004 APC 2.3% per year (rising); 2004-2015 APC 0.4% per year (not significant); 2015-2023 APC -1.8% per year (falling).
+NHL observed incidence, SEER joinpoint: 2000-2004 APC 1.3% per year (rising); 2004-2019 APC -0.3% per year (falling); 2019-2023 APC -1.4% per year (falling).
+Myeloma delay-adjusted incidence, SEER joinpoint: 2000-2023 APC 1.4% per year (rising).
+Myeloma 5-year relative survival, SEER average absolute change: 2000-2017, 1.5 percentage points per year (rising); 2017-2022, 0.3 percentage points per year (not significant).
+CLL 5-year relative survival, SEER average absolute change: 2000-2016, 0.8 percentage points per year (rising); 2016-2022, 0.0 percentage points per year (not significant).
+NHL 5-year relative survival, SEER average absolute change: 2000-2003, 1.7 percentage points per year (rising); 2003-2017, 0.5 percentage points per year (rising); 2017-2022, -0.5 percentage points per year (falling).

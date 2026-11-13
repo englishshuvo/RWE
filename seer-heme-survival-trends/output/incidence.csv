@@ -1,0 +1,989 @@
+"cancer","cancer_label","measure","slice","year","sex","sex_label","race","race_label","age_range","age_label","rate_type","rate_type_label","estimate","ci_low","ci_high","std_error","count","covid_year"
+"myeloma","Multiple myeloma","incidence","sex",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.137464,5.997055,6.280283,,7267,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.107687,5.968638,6.249112,,7345,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.220733,6.081475,6.362333,,7609,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.172473,6.034976,6.312277,,7701,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.291578,6.153657,6.431778,,7974,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.434671,6.296252,6.575338,,8304,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.260343,6.124785,6.398119,,8220,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.255297,6.120952,6.391826,,8385,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.53062,6.394902,6.668479,,8984,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.73072,6.593957,6.869596,,9438,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",6.917572,6.780029,7.057198,,9902,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.0268,6.889376,7.166273,,10268,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.171119,7.033889,7.310359,,10752,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.177396,7.041632,7.315136,,11008,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.264364,7.12916,7.40151,,11396,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.381579,7.246358,7.518716,,11794,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.583212,7.447764,7.720541,,12444,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.548043,7.41427,7.683667,,12619,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.514329,7.3821,7.648382,,12785,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2019,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.740536,7.607907,7.874959,,13485,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2020,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.112828,6.986736,7.240696,,12601,TRUE
+"myeloma","Multiple myeloma","incidence","sex",2021,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.522299,7.393576,7.652781,,13542,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2022,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.316792,7.19144,7.443872,,13448,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2023,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",7.565004,7.438952,7.692751,,14197,FALSE
+"myeloma","Multiple myeloma","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.670466,0.618499,0.725583,,615,FALSE
+"myeloma","Multiple myeloma","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.683579,0.631505,0.738761,,637,FALSE
+"myeloma","Multiple myeloma","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.697868,0.64554,0.753277,,658,FALSE
+"myeloma","Multiple myeloma","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.670057,0.619072,0.7241,,639,FALSE
+"myeloma","Multiple myeloma","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.718194,0.665428,0.774008,,687,FALSE
+"myeloma","Multiple myeloma","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.726683,0.673678,0.782732,,698,FALSE
+"myeloma","Multiple myeloma","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.692281,0.640657,0.746942,,668,FALSE
+"myeloma","Multiple myeloma","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.688966,0.637292,0.743685,,661,FALSE
+"myeloma","Multiple myeloma","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.772644,0.717891,0.830435,,743,FALSE
+"myeloma","Multiple myeloma","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.799725,0.744064,0.858418,,772,FALSE
+"myeloma","Multiple myeloma","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.842338,0.7848,0.902934,,802,FALSE
+"myeloma","Multiple myeloma","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.904448,0.844608,0.967354,,855,FALSE
+"myeloma","Multiple myeloma","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.867385,0.808744,0.929096,,817,FALSE
+"myeloma","Multiple myeloma","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.840603,0.782871,0.901405,,791,FALSE
+"myeloma","Multiple myeloma","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.821541,0.764094,0.882083,,762,FALSE
+"myeloma","Multiple myeloma","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.88647,0.826798,0.949229,,824,FALSE
+"myeloma","Multiple myeloma","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.891876,0.832015,0.954822,,830,FALSE
+"myeloma","Multiple myeloma","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.937067,0.875828,1.001378,,877,FALSE
+"myeloma","Multiple myeloma","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.923486,0.862611,0.987442,,861,FALSE
+"myeloma","Multiple myeloma","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.932869,0.871845,0.996964,,873,FALSE
+"myeloma","Multiple myeloma","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.877871,0.818622,0.940201,,818,TRUE
+"myeloma","Multiple myeloma","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.952784,0.890774,1.017902,,880,FALSE
+"myeloma","Multiple myeloma","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.88062,0.821114,0.943227,,815,FALSE
+"myeloma","Multiple myeloma","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.955084,0.89351,1.019724,,897,FALSE
+"myeloma","Multiple myeloma","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.267014,9.808992,10.740889,,1888,FALSE
+"myeloma","Multiple myeloma","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.326973,9.87486,10.794422,,1962,FALSE
+"myeloma","Multiple myeloma","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.204319,9.76405,10.659307,,2021,FALSE
+"myeloma","Multiple myeloma","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.526296,10.08825,10.978472,,2174,FALSE
+"myeloma","Multiple myeloma","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.419582,9.991777,10.861003,,2235,FALSE
+"myeloma","Multiple myeloma","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.85979,10.430064,11.302675,,2410,FALSE
+"myeloma","Multiple myeloma","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.384574,9.971941,10.809907,,2392,FALSE
+"myeloma","Multiple myeloma","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",10.364223,9.960678,10.779951,,2489,FALSE
+"myeloma","Multiple myeloma","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.034361,10.62409,11.456446,,2733,FALSE
+"myeloma","Multiple myeloma","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.025069,10.621958,11.439601,,2830,FALSE
+"myeloma","Multiple myeloma","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.171497,10.773125,11.580888,,2981,FALSE
+"myeloma","Multiple myeloma","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.321245,10.92628,11.7269,,3122,FALSE
+"myeloma","Multiple myeloma","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.846659,11.445121,12.258748,,3310,FALSE
+"myeloma","Multiple myeloma","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.507345,11.11442,11.910671,,3266,FALSE
+"myeloma","Multiple myeloma","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.822913,11.427703,12.228366,,3415,FALSE
+"myeloma","Multiple myeloma","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.894592,11.499765,12.299568,,3476,FALSE
+"myeloma","Multiple myeloma","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.487352,12.084831,12.899934,,3702,FALSE
+"myeloma","Multiple myeloma","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.528153,12.125088,12.941268,,3735,FALSE
+"myeloma","Multiple myeloma","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.266884,11.867993,12.675834,,3675,FALSE
+"myeloma","Multiple myeloma","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.537329,12.136465,12.948178,,3810,FALSE
+"myeloma","Multiple myeloma","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",11.634537,11.248154,12.03092,,3536,TRUE
+"myeloma","Multiple myeloma","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.510322,12.108302,12.922389,,3779,FALSE
+"myeloma","Multiple myeloma","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.543692,12.139791,12.957712,,3763,FALSE
+"myeloma","Multiple myeloma","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",12.468084,12.063216,12.883173,,3709,FALSE
+"myeloma","Multiple myeloma","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",32.540133,31.622394,33.477806,,4764,FALSE
+"myeloma","Multiple myeloma","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",32.158293,31.249519,33.086827,,4746,FALSE
+"myeloma","Multiple myeloma","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",33.116478,32.197921,34.054617,,4930,FALSE
+"myeloma","Multiple myeloma","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",32.511814,31.605836,33.437169,,4888,FALSE
+"myeloma","Multiple myeloma","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",33.305224,32.391643,34.238008,,5052,FALSE
+"myeloma","Multiple myeloma","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",33.866468,32.949863,34.802039,,5196,FALSE
+"myeloma","Multiple myeloma","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",33.247983,32.344427,34.170272,,5160,FALSE
+"myeloma","Multiple myeloma","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",33.251191,32.353216,34.167623,,5235,FALSE
+"myeloma","Multiple myeloma","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",34.155343,33.254771,35.073976,,5508,FALSE
+"myeloma","Multiple myeloma","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",35.594575,34.681411,36.525507,,5836,FALSE
+"myeloma","Multiple myeloma","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",36.655269,35.735679,37.592317,,6119,FALSE
+"myeloma","Multiple myeloma","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",36.986199,36.07049,37.919045,,6291,FALSE
+"myeloma","Multiple myeloma","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",37.716868,36.804421,38.645982,,6625,FALSE
+"myeloma","Multiple myeloma","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",38.322513,37.416525,39.244699,,6951,FALSE
+"myeloma","Multiple myeloma","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",38.74533,37.845387,39.661076,,7219,FALSE
+"myeloma","Multiple myeloma","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",39.215956,38.320389,40.126978,,7494,FALSE
+"myeloma","Multiple myeloma","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",40.077028,39.184545,40.98456,,7912,FALSE
+"myeloma","Multiple myeloma","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",39.49159,38.618522,40.379294,,8007,FALSE
+"myeloma","Multiple myeloma","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",39.61261,38.750756,40.488698,,8249,FALSE
+"myeloma","Multiple myeloma","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",41.02781,40.163705,41.90576,,8802,FALSE
+"myeloma","Multiple myeloma","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",37.447318,36.632384,38.275782,,8247,TRUE
+"myeloma","Multiple myeloma","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",39.219061,38.395939,40.055395,,8883,FALSE
+"myeloma","Multiple myeloma","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",37.966619,37.171668,38.774336,,8870,FALSE
+"myeloma","Multiple myeloma","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",39.593908,38.797908,40.402194,,9591,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.676102,5.52961,5.825479,,5697,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.623945,5.47893,5.771816,,5711,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.739377,5.593733,5.887846,,5906,FALSE
+"myeloma","Multiple myeloma","incidence","race",2003,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.666219,5.522606,5.812622,,5931,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.755363,5.611231,5.902262,,6092,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.891352,5.746404,6.039039,,6329,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.749065,5.606766,5.894075,,6272,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.732541,5.591328,5.876434,,6354,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.963204,5.820546,6.1085,,6757,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.147417,6.003378,6.294069,,7074,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.318062,6.172873,6.465837,,7389,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.385365,6.240304,6.532984,,7586,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.52723,6.382004,6.674976,,7930,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.468342,6.325135,6.614034,,8007,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.699741,6.555334,6.846597,,8470,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.719927,6.57596,6.866325,,8595,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.91307,6.768507,7.060028,,9053,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.871471,6.728538,7.016771,,9143,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.815355,6.673803,6.959257,,9160,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",7.024694,6.882652,7.169051,,9663,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.485529,6.349895,6.623461,,9045,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.718789,6.581481,6.858384,,9487,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.6112,6.476334,6.748323,,9490,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.755183,6.620145,6.892448,,9875,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",11.558047,10.92478,12.216427,,1298,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",11.810937,11.17542,12.471204,,1349,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",11.86037,11.233132,12.511739,,1402,FALSE
+"myeloma","Multiple myeloma","incidence","race",2003,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",12.417366,11.775981,13.082746,,1473,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",12.741443,12.100271,13.406058,,1562,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",12.836086,12.202757,13.492237,,1628,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",12.39407,11.776481,13.034117,,1598,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",12.399008,11.788898,13.031043,,1646,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",12.856633,12.245171,13.489405,,1773,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.396339,12.780639,14.032793,,1906,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.795261,13.176904,14.433926,,2010,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.011877,13.400877,14.642508,,2128,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.633106,14.015779,15.269626,,2282,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.785406,14.173333,15.416194,,2372,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.735001,13.153857,14.334374,,2264,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.471608,13.886997,15.073824,,2492,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.046943,14.456683,15.654465,,2649,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.74389,14.168185,15.336417,,2664,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.035043,14.465589,15.620759,,2830,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.189672,14.624898,15.770328,,2934,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.716245,13.182723,14.265473,,2673,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.22337,14.669548,15.792529,,3059,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.50797,13.97687,15.053967,,3002,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.852415,14.322263,15.39709,,3136,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.870542,3.377303,4.412373,,236,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.543015,3.087767,4.043807,,232,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.561468,3.118108,4.047879,,245,FALSE
+"myeloma","Multiple myeloma","incidence","race",2003,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.43984,3.018936,3.901202,,253,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.343514,2.938545,3.787075,,258,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.71682,3.296039,4.174742,,297,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.567352,3.159291,4.011594,,289,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.751288,3.346035,4.190644,,327,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.215029,3.799977,4.662078,,395,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.830638,3.442535,4.249624,,373,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.290352,3.887315,4.723037,,438,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.162791,3.776298,4.577507,,447,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.872051,3.508819,4.262222,,438,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.420816,4.040879,4.826499,,521,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.175736,3.815128,4.560998,,517,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.369034,4.008752,4.752858,,567,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.167508,3.825705,4.531731,,574,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.503771,4.154872,4.874267,,640,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.880876,3.562232,4.220543,,569,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.561056,4.222674,4.919684,,696,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.151184,3.838027,4.48373,,672,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.473269,4.153942,4.811472,,749,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",3.86485,3.573758,4.174177,,668,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",4.417801,4.113473,4.739584,,799,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.066146,4.074608,11.172736,,18,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",4.94994,2.826539,7.979148,,18,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.393916,4.700283,10.990129,,26,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.345047,4.638383,10.953025,,25,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.039179,4.614916,10.254925,,29,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",5.945255,3.632728,9.099174,,22,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",5.621809,3.367708,8.719498,,21,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",4.986582,2.986643,7.765031,,21,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",6.25795,4.023448,9.238803,,27,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",4.19462,2.385364,6.768424,,18,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.597722,5.028086,10.931482,,31,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",5.34725,3.402524,7.971394,,26,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",8.671099,5.999249,12.057407,,37,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.371577,5.125135,10.25137,,38,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",8.188282,5.710404,11.329535,,38,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",8.25955,5.836,11.317608,,41,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",8.756729,6.319044,11.802441,,46,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",9.76285,7.21699,12.901308,,53,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",6.504889,4.540307,9.033181,,38,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",4.903486,3.302661,7.034129,,32,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",8.43014,6.17267,11.238852,,49,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",6.911531,4.892915,9.477926,,41,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",7.470063,5.461356,9.990858,,48,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.253602,5.780804,6.751538,,727,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.660533,6.176461,7.169109,,785,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.248885,5.793087,6.727932,,779,FALSE
+"myeloma","Multiple myeloma","incidence","race",2003,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.388294,5.944991,6.853267,,863,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.493528,6.059654,6.947892,,920,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.437148,6.010295,6.883865,,940,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.043197,5.642813,6.462309,,937,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.025177,5.635042,6.433149,,980,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.382457,5.987911,6.794145,,1082,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.571866,6.183113,6.976822,,1190,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.685749,6.301157,7.085885,,1256,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.94418,6.561682,7.341492,,1370,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.115,6.737055,7.507086,,1472,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.794355,6.432405,7.1699,,1458,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.275144,6.905039,7.658462,,1599,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.285715,6.924995,7.659018,,1695,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.332421,6.981525,7.695234,,1814,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.175733,6.836345,7.526562,,1854,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.556094,7.212045,7.911282,,1996,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",7.291419,6.959851,7.633747,,1998,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.753548,6.442949,7.074431,,1941,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.81612,6.510157,7.132036,,2041,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.888359,6.587812,7.198451,,2148,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",6.846892,6.55535,7.147525,,2233,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.575129,5.421462,5.73219,,5001,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.490989,5.338945,5.646413,,4958,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.670009,5.516098,5.827284,,5168,FALSE
+"myeloma","Multiple myeloma","incidence","race",2003,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.535089,5.383855,5.689667,,5109,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.613146,5.461154,5.768475,,5218,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.783853,5.630077,5.940956,,5429,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.672641,5.521057,5.827537,,5391,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.645981,5.495313,5.799944,,5427,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.875844,5.723075,6.031883,,5740,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.050489,5.895888,6.208352,,5970,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.221625,6.06535,6.381151,,6215,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.2706,6.114198,6.430241,,6328,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.373153,6.216898,6.53261,,6565,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.375813,6.220489,6.534316,,6654,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.60006,6.442972,6.760303,,6998,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.569078,6.412834,6.728466,,7027,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.772909,6.615356,6.933585,,7380,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.779599,6.622402,6.939913,,7445,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.624513,6.469904,6.782225,,7349,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.950388,6.793126,7.110734,,7837,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.410733,6.260223,6.564326,,7290,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.682004,6.528502,6.838604,,7649,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.529321,6.378471,6.683257,,7558,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.708959,6.556983,6.864004,,7868,FALSE
+"myeloma","Multiple myeloma","incidence","race",2000,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",11.782813,11.131985,12.459767,,1273,FALSE
+"myeloma","Multiple myeloma","incidence","race",2001,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",12.059733,11.406225,12.738996,,1326,FALSE
+"myeloma","Multiple myeloma","incidence","race",2002,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",12.079336,11.434396,12.749447,,1371,FALSE
+"myeloma","Multiple myeloma","incidence","race",2003,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",12.686945,12.026128,13.372823,,1444,FALSE
+"myeloma","Multiple myeloma","incidence","race",2004,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.015384,12.354707,13.700571,,1530,FALSE
+"myeloma","Multiple myeloma","incidence","race",2005,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.152321,12.497564,13.831024,,1594,FALSE
+"myeloma","Multiple myeloma","incidence","race",2006,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",12.690191,12.051841,13.35213,,1563,FALSE
+"myeloma","Multiple myeloma","incidence","race",2007,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",12.684509,12.053824,13.338262,,1607,FALSE
+"myeloma","Multiple myeloma","incidence","race",2008,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.113076,12.481412,13.767206,,1723,FALSE
+"myeloma","Multiple myeloma","incidence","race",2009,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.631137,12.994738,14.28949,,1841,FALSE
+"myeloma","Multiple myeloma","incidence","race",2010,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.137939,13.495788,14.801626,,1952,FALSE
+"myeloma","Multiple myeloma","incidence","race",2011,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.276113,13.643449,14.929611,,2054,FALSE
+"myeloma","Multiple myeloma","incidence","race",2012,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.973854,14.332546,15.635578,,2208,FALSE
+"myeloma","Multiple myeloma","incidence","race",2013,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.172636,14.535525,15.829684,,2300,FALSE
+"myeloma","Multiple myeloma","incidence","race",2014,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.961303,13.359447,14.582585,,2176,FALSE
+"myeloma","Multiple myeloma","incidence","race",2015,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.851643,14.24258,15.479509,,2413,FALSE
+"myeloma","Multiple myeloma","incidence","race",2016,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.499289,14.88205,16.135024,,2566,FALSE
+"myeloma","Multiple myeloma","incidence","race",2017,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.168199,14.566155,15.788298,,2574,FALSE
+"myeloma","Multiple myeloma","incidence","race",2018,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.495027,14.898119,16.109438,,2732,FALSE
+"myeloma","Multiple myeloma","incidence","race",2019,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.618445,15.027023,16.226978,,2825,FALSE
+"myeloma","Multiple myeloma","incidence","race",2020,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.080948,13.522829,14.655997,,2572,TRUE
+"myeloma","Multiple myeloma","incidence","race",2021,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.718363,15.136075,16.317243,,2949,FALSE
+"myeloma","Multiple myeloma","incidence","race",2022,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.016398,14.457224,15.59171,,2900,FALSE
+"myeloma","Multiple myeloma","incidence","race",2023,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.527846,14.965857,16.105623,,3051,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2000,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.490977,7.249945,7.737735,,3789,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2001,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.41976,7.182053,7.663094,,3827,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2002,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.71496,7.475272,7.960162,,4062,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2003,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.634412,7.397731,7.876523,,4100,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2004,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.762372,7.527006,8.003041,,4273,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2005,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.938518,7.70289,8.179349,,4467,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2006,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.787818,7.55684,8.023901,,4479,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2007,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.862342,7.632139,8.097565,,4616,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2008,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.129893,7.899173,8.365505,,4920,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2009,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.324958,8.093702,8.561021,,5148,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2010,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.488027,8.257385,8.723373,,5396,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2011,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.715881,8.484501,8.951875,,5675,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2012,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.052025,8.819219,9.289342,,6058,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2013,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.964331,8.735228,9.197858,,6136,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2014,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.98518,8.759677,9.214986,,6382,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2015,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.037524,8.813003,9.266289,,6524,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2016,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.351805,9.126285,9.581482,,6945,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2017,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.255266,9.033958,9.48064,,7044,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2018,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.112216,8.895146,9.333281,,7077,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2019,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.389979,9.172345,9.611532,,7483,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2020,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.630259,8.423627,8.840757,,7006,TRUE
+"myeloma","Multiple myeloma","incidence","sex",2021,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.109096,8.898404,9.323616,,7513,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2022,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",8.857203,8.652755,9.065388,,7495,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2023,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",9.400819,9.192298,9.613009,,8075,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2000,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.169267,4.998378,5.344514,,3478,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2001,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.152407,4.983013,5.326101,,3518,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2002,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.129637,4.961637,5.301889,,3547,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2003,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.127565,4.960809,5.298516,,3601,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2004,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.199439,5.032443,5.370588,,3701,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2005,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.287168,5.120157,5.458277,,3837,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2006,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.090661,4.927581,5.257801,,3741,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2007,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.050875,4.889494,5.216265,,3769,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2008,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.326272,5.162163,5.494321,,4064,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2009,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.506477,5.341032,5.675805,,4290,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2010,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.699836,5.532334,5.871182,,4506,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2011,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.721077,5.554321,5.891634,,4593,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2012,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.694784,5.530487,5.86281,,4694,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2013,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.784465,5.620602,5.951996,,4872,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2014,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.887243,5.722661,6.055462,,5014,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2015,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.08496,5.918799,6.254712,,5270,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2016,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.184893,6.019326,6.35399,,5499,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2017,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.159533,5.995791,6.326758,,5575,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2018,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.225422,6.061864,6.392428,,5708,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2019,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.411321,6.247056,6.578984,,6002,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2020,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",5.887033,5.730766,6.046668,,5595,TRUE
+"myeloma","Multiple myeloma","incidence","sex",2021,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.232318,6.072875,6.395097,,6029,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2022,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.068145,5.911951,6.227637,,5953,FALSE
+"myeloma","Multiple myeloma","incidence","sex",2023,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",6.079563,5.925283,6.237076,,6122,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.137464,5.997055,6.280283,,7267,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.107687,5.968638,6.249112,,7345,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.220733,6.081475,6.362333,,7609,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.172473,6.034976,6.312277,,7701,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.291578,6.153657,6.431778,,7974,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.434671,6.296252,6.575338,,8304,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.260343,6.124785,6.398119,,8220,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.255297,6.120952,6.391826,,8385,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.53062,6.394902,6.668479,,8984,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.73072,6.593957,6.869596,,9438,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",6.917572,6.780029,7.057198,,9902,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.0268,6.889376,7.166273,,10268,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.171119,7.033889,7.310359,,10752,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.177396,7.041632,7.315136,,11008,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.264364,7.12916,7.40151,,11396,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.424484,7.288475,7.562414,,11794,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.671638,7.534608,7.810563,,12444,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.680144,7.544026,7.818134,,12619,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.691405,7.556054,7.828609,,12785,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2019,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.968337,7.8318,8.106702,,13485,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2020,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.365345,7.234768,7.497737,,12601,TRUE
+"myeloma","Multiple myeloma","incidence","delay",2021,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.887304,7.752325,8.024096,,13542,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2022,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",7.815166,7.681249,7.950883,,13448,FALSE
+"myeloma","Multiple myeloma","incidence","delay",2023,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",8.39265,8.252794,8.534316,,14197,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.710609,4.587404,4.836232,,5551,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.977431,4.851711,5.105536,,5959,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.922084,4.798023,5.048497,,5994,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.16688,5.040794,5.295283,,6409,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.276829,5.150149,5.405799,,6641,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.251476,5.126058,5.379154,,6729,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.333484,5.208208,5.460985,,6975,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.154441,5.032607,5.278459,,6912,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.208234,5.08686,5.331757,,7134,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.354599,5.232725,5.478585,,7508,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.467124,5.344931,5.591399,,7815,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.370937,5.251091,5.492828,,7870,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.42288,5.303815,5.543954,,8144,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.499429,5.380793,5.620038,,8444,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.513549,5.396164,5.63287,,8683,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.440957,5.32557,5.558248,,8782,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.348803,5.235361,5.464121,,8800,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.366837,5.25467,5.480846,,9045,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.158537,5.04964,5.269249,,8847,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2019,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",5.088005,4.980973,5.196824,,8903,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2020,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.647615,4.546408,4.750585,,8313,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2021,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.990195,4.886094,5.096043,,9071,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2022,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.733051,4.63295,4.834867,,8777,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2023,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",4.773216,4.673917,4.874196,,9054,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.367078,0.32881,0.408521,,335,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.387219,0.348242,0.429322,,360,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.358482,0.321322,0.398731,,339,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.387273,0.348844,0.428763,,371,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.368358,0.330995,0.408769,,355,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.354562,0.318082,0.394077,,345,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.40394,0.365052,0.445844,,396,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.369028,0.331793,0.409288,,360,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.384911,0.346862,0.425981,,376,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.416024,0.376237,0.458848,,403,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.392806,0.354051,0.434612,,378,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.428999,0.388289,0.472772,,409,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.420668,0.380276,0.464131,,399,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.401408,0.361862,0.444035,,378,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.414459,0.374043,0.457974,,386,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.446977,0.405027,0.492016,,418,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.401909,0.362208,0.444695,,377,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.415663,0.375385,0.459014,,392,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.416262,0.375849,0.459757,,390,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.388293,0.349277,0.430398,,363,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.37197,0.333738,0.413303,,346,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.432287,0.390842,0.476857,,399,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.364234,0.326291,0.405301,,336,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",0.398576,0.359153,0.441083,,374,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.786497,7.387907,8.200979,,1429,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.009404,7.611506,8.422669,,1519,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.97202,7.583083,8.375709,,1576,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.94777,7.567693,8.341994,,1641,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.050292,7.674719,8.439496,,1726,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.958961,7.592385,8.33868,,1773,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.181952,7.816113,8.560504,,1884,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.092332,7.73665,8.460189,,1948,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.030842,7.682123,8.391356,,1997,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.297238,7.948381,8.657513,,2134,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.020944,7.684147,8.368763,,2143,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.376427,8.037569,8.725969,,2315,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.338688,8.002757,8.685167,,2335,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.459294,8.123203,8.805785,,2405,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.353812,8.022666,8.695191,,2420,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.450729,8.120516,8.79102,,2498,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.255388,7.930855,8.58991,,2476,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.534737,8.205636,8.873784,,2586,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.938737,7.621185,8.266252,,2413,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",8.067773,7.746621,8.398936,,2448,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.181986,6.881602,7.49228,,2214,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.562256,7.253657,7.880785,,2329,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.414218,7.106237,7.732261,,2251,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",7.437037,7.128012,7.75618,,2252,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",25.930828,25.111163,26.770475,,3787,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",27.662203,26.819516,28.524667,,4080,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",27.43318,26.597137,28.288833,,4079,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",29.234012,28.375384,30.112018,,4397,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.090617,29.222139,30.978316,,4560,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.07738,29.213603,30.960138,,4611,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.178936,29.31947,31.057109,,4695,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",29.068525,28.231769,29.923673,,4604,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",29.476173,28.640622,30.329773,,4761,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.140011,29.302663,30.995065,,4971,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",31.491136,30.642296,32.357356,,5294,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.101024,29.277697,30.941433,,5146,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.604506,29.786011,31.439597,,5410,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",31.177353,30.361447,32.009445,,5661,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",31.339514,30.533516,32.161249,,5877,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.463949,29.678285,31.264996,,5866,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",30.22463,29.449484,31.014852,,5947,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",29.9571,29.197386,30.731455,,6067,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",29.012734,28.276398,29.763299,,6044,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",28.461686,27.74234,29.194896,,6092,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",26.121697,25.442045,26.814882,,5753,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",28.035721,27.340391,28.744273,,6343,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",26.566427,25.901437,27.24421,,6190,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",26.660508,26.006646,27.326702,,6428,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2000,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.032372,4.894365,5.17327,,5042,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2001,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.339611,5.198287,5.483791,,5419,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2002,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.285937,5.14627,5.428427,,5445,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2003,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.601981,5.459098,5.747655,,5856,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2004,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.73396,5.59,5.88069,,6060,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2005,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.722938,5.579983,5.868635,,6139,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2006,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.811102,5.668046,5.956868,,6337,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2007,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.663454,5.523513,5.806065,,6313,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2008,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.718415,5.578863,5.860602,,6491,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2009,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.88638,5.745897,6.029465,,6815,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2010,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.993021,5.852118,6.136499,,7048,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2011,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.889352,5.750735,6.030512,,7056,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2012,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.961056,5.822905,6.101713,,7293,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2013,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.020318,5.882826,6.16028,,7512,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2014,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",6.063434,5.926792,6.202509,,7732,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2015,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.992642,5.857819,6.12987,,7786,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.934739,5.801546,6.070313,,7842,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2017,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.98299,5.850639,6.117689,,8056,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.734793,5.606126,5.865784,,7818,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.674327,5.547517,5.803435,,7876,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2020,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.171979,5.051881,5.294354,,7304,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.561889,5.437951,5.688095,,7954,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2022,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.249244,5.130181,5.370543,,7632,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",5.246505,5.128678,5.366535,,7777,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2000,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.797478,3.432841,4.187905,,412,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2001,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.790458,3.430658,4.175494,,424,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2002,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.885418,3.522021,4.273851,,437,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2003,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.590923,3.252483,3.953243,,432,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2004,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.476431,3.140825,3.836089,,413,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2005,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.788452,3.437668,4.163177,,450,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2006,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.693238,3.356097,4.053303,,466,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2007,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.411876,3.091561,3.754634,,441,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2008,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.243957,2.934326,3.575651,,429,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2009,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.482128,3.164914,3.820868,,471,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2010,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.661388,3.342428,4.001121,,518,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2011,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.739353,3.423389,4.075378,,555,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2012,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.995146,3.671114,4.338866,,603,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2013,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",4.094203,3.775105,4.432123,,655,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2014,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",4.042883,3.728717,4.375512,,660,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2015,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.821833,3.521809,4.139767,,647,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.660397,3.368427,3.970049,,627,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2017,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.580135,3.298484,3.878783,,644,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.399319,3.131571,3.683427,,641,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.303646,3.042225,3.581132,,633,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2020,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",2.971389,2.725504,3.233127,,579,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.298011,3.040815,3.570825,,653,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2022,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.00535,2.765887,3.259857,,623,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",3.127539,2.885944,3.383837,,655,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2000,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.063699,0.816271,1.359691,,66,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2001,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.004802,0.774839,1.279697,,68,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2002,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.146815,0.900154,1.437502,,78,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2003,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.137002,0.897999,1.417716,,81,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2004,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.402747,1.1358,1.710624,,102,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2005,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.0717,0.851214,1.329971,,86,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2006,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.430385,1.178353,1.718588,,120,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2007,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.275854,1.041823,1.544899,,109,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2008,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.281988,1.059322,1.536788,,122,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2009,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.36162,1.133307,1.621357,,131,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2010,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.410796,1.182038,1.669868,,140,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2011,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.546543,1.316736,1.804504,,170,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2012,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.274187,1.072225,1.502945,,147,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2013,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.35773,1.150103,1.591545,,159,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2014,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.294713,1.099858,1.514126,,164,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2015,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.463784,1.258827,1.692478,,191,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.305593,1.114846,1.519439,,174,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2017,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.335457,1.149846,1.542744,,193,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.288734,1.10907,1.489495,,191,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.118161,0.955348,1.301289,,174,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2020,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.244427,1.076628,1.431739,,203,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.460496,1.27971,1.660492,,242,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2022,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.32255,1.153833,1.509827,,226,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",1.171013,1.017141,1.342571,,212,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",3.18077,1.763716,5.246485,,16,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",3.97346,2.378608,6.197903,,20,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",2.700264,1.492944,4.492754,,16,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",2.665702,1.495898,4.394224,,16,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",3.0016,1.819024,4.695799,,20,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2000,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.409187,2.108868,2.736161,,260,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2001,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.423513,2.13273,2.739251,,280,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2002,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.450691,2.162763,2.762706,,286,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2003,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.553732,2.262654,2.868221,,309,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2004,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.887807,2.582835,3.215328,,359,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2005,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.498439,2.226984,2.790802,,334,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2006,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.51236,2.245679,2.799064,,357,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2007,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.351733,2.101003,2.621436,,358,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2008,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.470195,2.220285,2.73805,,389,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2009,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.671922,2.418457,2.942417,,450,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2010,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.436447,2.201755,2.687237,,437,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2011,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.526912,2.290959,2.778455,,462,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2012,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.556122,2.32305,2.804204,,486,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2013,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.702986,2.470444,2.949714,,548,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2014,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.50358,2.285911,2.734748,,535,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2015,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.523372,2.309937,2.749708,,567,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.556829,2.345247,2.780899,,591,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2017,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.377303,2.178839,2.587675,,581,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.335899,2.142716,2.540587,,591,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.474179,2.277716,2.681848,,641,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2020,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.065648,1.89353,2.24827,,581,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.335287,2.151974,2.52905,,655,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2022,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.21089,2.03919,2.39241,,665,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",2.345261,2.172294,2.527634,,735,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2000,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.350082,5.199519,5.504042,,4795,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2001,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.695574,5.540874,5.85365,,5153,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2002,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.649861,5.496589,5.806489,,5172,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2003,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.005164,5.847809,6.165856,,5556,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2004,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.135032,5.976284,6.29711,,5713,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2005,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.185909,6.027121,6.348015,,5822,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2006,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.285988,6.126652,6.448627,,5987,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2007,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.155607,5.999013,6.315475,,5969,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2008,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.230608,6.073875,6.390595,,6125,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2009,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.410116,6.25179,6.571684,,6385,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2010,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.578981,6.419388,6.741797,,6644,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2011,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.488561,6.330528,6.649806,,6623,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2012,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.573421,6.41556,6.734464,,6829,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2013,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.62866,6.471417,6.789054,,6998,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2014,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.745125,6.587358,6.906022,,7233,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2015,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.680279,6.52387,6.839807,,7256,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.625643,6.470764,6.783622,,7295,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2017,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.752722,6.597404,6.91112,,7531,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.476128,6.324548,6.630781,,7277,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.409562,6.259725,6.562457,,7297,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2020,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.897953,5.754705,6.04426,,6786,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.356644,6.207829,6.508537,,7358,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2022,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",6.011132,5.867628,6.157695,,7034,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",5.99615,5.853765,6.141576,,7122,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2000,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.849755,3.476596,4.249696,,403,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2001,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.856399,3.486968,4.252109,,415,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2002,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.943507,3.570558,4.342572,,426,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2003,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.674835,3.325802,4.048821,,424,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2004,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.529667,3.185652,3.898761,,404,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2005,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.871479,3.509205,4.258887,,439,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2006,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.82443,3.473937,4.199006,,461,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2007,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.48176,3.151229,3.835893,,430,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2008,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.314798,2.994813,3.658031,,418,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2009,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.54836,3.220681,3.898775,,457,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2010,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.704556,3.375567,4.055574,,497,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2011,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.807462,3.480897,4.155282,,537,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2012,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",4.114,3.77673,4.47218,,589,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2013,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",4.24281,3.909068,4.596603,,642,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2014,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",4.149191,3.821925,4.496166,,639,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2015,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.92773,3.615347,4.259216,,629,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2016,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.772504,3.467482,4.096446,,609,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2017,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.645517,3.35214,3.95718,,614,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2018,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.501809,3.221585,3.799622,,620,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2019,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.417103,3.142763,3.70874,,614,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2020,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.030149,2.773741,3.303666,,553,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","race",2021,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.42297,3.152195,3.710622,,634,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2022,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.138228,2.885147,3.407603,,608,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","race",2023,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",3.266873,3.010857,3.538882,,636,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2000,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.615342,6.386375,6.850127,,3293,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2001,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.855376,6.624537,7.091925,,3477,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2002,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.803886,6.575334,7.038072,,3505,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2003,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.126755,6.896023,7.362986,,3766,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2004,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.170163,6.940509,7.405233,,3858,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2005,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.140301,6.913609,7.372304,,3929,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2006,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.298663,7.072415,7.5301,,4117,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2007,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.011061,6.792315,7.234874,,4075,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2008,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.184043,6.964936,7.408116,,4275,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2009,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.359564,7.141041,7.582931,,4515,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2010,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.428316,7.210485,7.650914,,4644,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2011,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.215002,7.003851,7.430791,,4673,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2012,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.460321,7.248252,7.676928,,4961,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2013,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.521251,7.310781,7.736166,,5126,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2014,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.456095,7.249267,7.667271,,5219,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2015,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.321323,7.11936,7.527531,,5295,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2016,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.218921,7.02081,7.421194,,5362,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2017,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.153538,6.958133,7.35304,,5401,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2018,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",7.067972,6.876604,7.263346,,5477,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2019,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.902793,6.715713,7.093813,,5465,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2020,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.297976,6.121309,6.478522,,5104,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2021,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.668888,6.488349,6.853272,,5488,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2022,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.360908,6.186668,6.538921,,5325,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2023,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",6.334634,6.164088,6.508842,,5474,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2000,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.307011,3.171495,3.446856,,2258,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2001,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.59725,3.456591,3.742188,,2482,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2002,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.539772,3.401494,3.682266,,2489,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2003,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.712197,3.571355,3.857207,,2643,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2004,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.86548,3.722407,4.012682,,2783,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2005,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.840193,3.698287,3.986192,,2800,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2006,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.84515,3.704311,3.990025,,2858,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2007,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.744466,3.606613,3.886298,,2837,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2008,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.706313,3.570245,3.846303,,2859,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2009,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.787438,3.651271,3.927464,,2993,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2010,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.954797,3.816397,4.097014,,3171,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2011,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.91041,3.773957,4.050626,,3197,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2012,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.820942,3.687238,3.958356,,3183,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2013,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.907496,3.773544,4.045103,,3318,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2014,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.966108,3.832899,4.102901,,3464,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2015,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.923618,3.792071,4.058705,,3487,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2016,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.818769,3.689825,3.951217,,3438,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2017,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.93096,3.802092,4.063258,,3644,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2018,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.594255,3.471921,3.719985,,3370,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2019,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.60642,3.484945,3.731251,,3438,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2020,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.297782,3.182755,3.416126,,3209,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2021,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.62817,3.508254,3.751379,,3583,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2022,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.412948,3.298359,3.530764,,3452,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","sex",2023,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",3.482169,3.36727,3.600254,,3580,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",4.710609,4.587404,4.836232,,5551,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",4.977431,4.851711,5.105536,,5959,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",4.922084,4.798023,5.048497,,5994,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.16688,5.040794,5.295283,,6409,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.276829,5.150149,5.405799,,6641,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.251476,5.126058,5.379154,,6729,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.333484,5.208208,5.460985,,6975,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.154441,5.032607,5.278459,,6912,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.208234,5.08686,5.331757,,7134,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.354599,5.232725,5.478585,,7508,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.467124,5.344931,5.591399,,7815,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.370937,5.251091,5.492828,,7870,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.42288,5.303815,5.543954,,8144,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.499429,5.380793,5.620038,,8444,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.513549,5.396164,5.63287,,8683,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.520608,5.403531,5.639605,,8782,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.506602,5.389814,5.625303,,8800,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.605974,5.488809,5.725033,,9045,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.467222,5.351809,5.584519,,8847,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2019,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.471373,5.356277,5.588341,,8903,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2020,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.070861,4.960437,5.183147,,8313,TRUE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2021,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.598867,5.482067,5.717547,,9071,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2022,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.549754,5.432375,5.669028,,8777,FALSE
+"cll","Chronic lymphocytic leukemia","incidence","delay",2023,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",5.98355,5.859061,6.10998,,9054,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.34316,19.094932,19.593773,,23237,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.506312,19.258846,19.75613,,23792,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.596931,19.350757,19.845425,,24295,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.95509,19.708463,20.204005,,25142,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.283474,20.036349,20.532861,,25932,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.266819,20.021481,20.514391,,26331,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.106764,19.864045,20.351688,,26552,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.152841,19.911976,20.395876,,27167,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.290829,20.050975,20.532823,,27859,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.245645,20.007787,20.485613,,28307,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",20.055921,19.821374,20.292546,,28680,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.655749,19.425444,19.888102,,28666,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.739992,19.511353,19.970646,,29390,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.543827,19.318286,19.771353,,29636,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.946316,19.720714,20.17387,,30933,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.702844,19.480499,19.927113,,31162,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.637765,19.417517,19.859912,,31621,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.4184,19.201413,19.637257,,31832,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.422277,19.207392,19.639006,,32445,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2019,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.597467,19.38375,19.813002,,33401,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2020,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",18.100325,17.896252,18.3062,,31283,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2021,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",19.08735,18.878875,19.297614,,33387,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2022,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",18.447401,18.244683,18.651879,,32891,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2023,1,"Both sexes",1,"All races and ethnicities",1,"All ages",1,"Observed",18.405011,18.204496,18.607258,,33428,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.343526,5.196171,5.493973,,4990,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.206025,5.061404,5.353705,,4915,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.083392,4.940968,5.228859,,4832,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.11859,4.976052,5.264156,,4895,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.17211,5.028947,5.318295,,4959,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.090971,4.949001,5.235962,,4890,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.086932,4.945144,5.231736,,4900,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.089624,4.947701,5.23456,,4902,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.220302,5.076402,5.367217,,5024,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",5.208194,5.064201,5.355209,,5002,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.894132,4.75464,5.036643,,4707,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.825597,4.686926,4.967288,,4631,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.882883,4.743548,5.025233,,4696,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.924276,4.784216,5.067353,,4727,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.914929,4.774951,5.057924,,4717,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.749458,4.611854,4.890075,,4560,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.841747,4.7032,4.983294,,4679,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.798521,4.660858,4.939175,,4655,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.793161,4.655753,4.933556,,4661,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.586887,4.45283,4.723922,,4480,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.42781,4.295999,4.562606,,4311,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.819762,4.681857,4.960674,,4664,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.672664,4.537268,4.811053,,4546,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",1,"Observed",4.73565,4.599976,4.874294,,4649,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.562724,30.755952,32.385293,,5807,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.990485,31.192037,32.80419,,6095,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",32.681472,31.890338,33.487264,,6482,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",32.484043,31.710757,33.27142,,6704,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",32.69072,31.928555,33.46648,,6994,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",32.260563,31.51687,33.017374,,7161,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.924842,31.197633,32.664726,,7342,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",32.164858,31.44939,32.892507,,7693,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.56312,30.865896,32.272141,,7803,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.01587,30.335693,31.707471,,7927,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.206638,30.535844,31.888478,,8266,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",30.642904,29.98833,31.308197,,8388,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",30.851706,30.198915,31.51508,,8553,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",29.666747,29.03111,30.312819,,8353,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",31.169684,30.522876,31.826774,,8924,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",30.462533,29.827172,31.108053,,8862,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",30.23045,29.599855,30.871136,,8897,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",29.530413,28.908517,30.162367,,8769,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",30.276757,29.646162,30.917432,,9010,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",29.596303,28.974765,30.227887,,8890,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",27.38462,26.786476,27.99282,,8230,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",29.203734,28.584268,29.833301,,8732,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",27.829275,27.223151,28.44556,,8277,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",1,"Observed",27.79261,27.184913,28.410543,,8226,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2000,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",85.00217,83.51458,86.509661,,12440,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2001,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",86.572808,85.077911,88.087422,,12782,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2002,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",87.172068,85.677996,88.685684,,12981,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2003,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",90.038682,88.527119,91.569579,,13543,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2004,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",92.085288,90.562579,93.627157,,13979,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2005,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",92.928508,91.40724,94.468688,,14280,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2006,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",92.083584,90.576798,93.609052,,14310,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2007,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",92.14795,90.652225,93.662047,,14572,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2008,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",93.205542,91.713968,94.715146,,15032,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2009,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",93.566714,92.084304,95.066836,,15378,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2010,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",93.637438,92.167824,95.124426,,15707,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2011,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",91.532475,90.092193,92.989814,,15647,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2012,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",91.623269,90.200614,93.062528,,16141,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2013,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",91.24019,89.83997,92.656575,,16556,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2014,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",92.694971,91.301069,94.104643,,17292,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2015,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",92.555083,91.178778,93.946788,,17740,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2016,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",91.78712,90.43204,93.157256,,18045,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2017,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",91.12958,89.798948,92.474856,,18408,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2018,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",90.305349,89.001186,91.623735,,18774,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2019,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",93.680011,92.370212,95.003661,,20031,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2020,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",85.369291,84.134986,86.617132,,18742,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2021,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",88.776208,87.532661,90.032992,,19991,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2022,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",86.185873,84.984177,87.400345,,20068,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","age",2023,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",1,"Observed",85.533334,84.357136,86.721865,,20553,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.316381,20.038677,20.59696,,20435,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.399488,20.122881,20.678939,,20779,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.52928,20.253398,20.807976,,21184,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.888991,20.612359,21.168407,,21853,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.292935,21.014953,21.573676,,22542,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.277628,21.001166,21.556827,,22819,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.308166,21.032827,21.586216,,23139,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.276634,21.003407,21.552541,,23507,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.377433,21.105192,21.652323,,23984,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.2545,20.984572,21.527052,,24215,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",21.141283,20.874005,21.411155,,24531,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.628139,20.365772,20.893072,,24327,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.832419,20.570773,21.0966,,25003,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.561053,20.303036,20.821575,,25080,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.978528,20.719761,21.239772,,26031,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.798858,20.542887,21.05728,,26234,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.735237,20.481005,20.991901,,26509,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.431168,20.180953,20.683785,,26552,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.35147,20.103649,20.601667,,26852,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.641278,20.393727,20.89118,,27698,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",19.081678,18.84458,19.321118,,25861,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",20.037096,19.794884,20.281646,,27391,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",19.323685,19.08781,19.561871,,26821,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",1,"Observed",19.243428,19.009898,19.479242,,27128,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.684231,13.033731,14.357868,,1762,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.198541,13.540945,14.878926,,1858,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.490631,13.835093,15.168454,,1948,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.949481,14.287151,15.63383,,2032,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.337342,14.66954,16.026919,,2111,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.216937,14.561179,15.893954,,2154,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.484923,13.850353,15.1404,,2090,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.702428,14.073515,15.351642,,2192,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.693107,14.067482,15.338772,,2220,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.218441,14.588547,15.867931,,2350,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.966381,14.347521,15.604454,,2364,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.917343,14.306877,15.546586,,2415,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.586091,13.994099,15.196256,,2454,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.61282,14.024692,15.218821,,2491,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.25831,14.670385,15.863466,,2718,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.493379,13.922958,15.080815,,2609,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.801133,14.231739,15.387161,,2731,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",15.064139,14.492224,15.652484,,2799,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.825842,14.267562,15.400111,,2838,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.560022,14.014253,15.121407,,2856,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.171875,12.657091,13.702051,,2627,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",14.16266,13.63359,14.706885,,2876,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.493398,12.984091,14.017502,,2800,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",1,"Observed",13.410735,12.908652,13.927293,,2827,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",12.984266,12.088299,13.926877,,846,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.079338,13.176171,15.02629,,971,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.468589,12.607679,14.371152,,973,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.72406,12.869282,14.618936,,1028,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.452081,12.632185,14.309859,,1066,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.179771,12.393518,14.001804,,1107,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",12.563966,11.807098,13.355496,,1087,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.274488,12.517695,14.064198,,1208,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.021,13.259571,14.813958,,1336,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.000429,13.25109,14.780302,,1374,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.616998,12.902202,14.360658,,1428,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.032414,13.32167,14.770839,,1534,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.835344,13.143567,14.553721,,1568,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.945346,13.268085,14.647985,,1658,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.150489,13.482394,14.84295,,1754,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.268001,13.61189,14.947448,,1852,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.998909,13.366569,14.653512,,1917,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.818099,13.200112,14.457624,,1951,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.227217,13.611374,14.863911,,2080,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.003352,13.406776,14.619998,,2146,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.244924,12.675081,13.834269,,2095,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.335893,13.749472,14.941474,,2318,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",14.222678,13.651407,14.812348,,2396,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",4,"Non-Hispanic Asian / Pacific Islander",1,"All ages",1,"Observed",13.871029,13.319442,14.440278,,2438,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",13.620534,9.709616,18.48131,,47,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",16.126835,12.01309,21.128158,,58,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",10.887861,7.683863,14.937216,,43,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",14.323062,10.351806,19.210245,,49,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",13.135515,9.535157,17.583024,,50,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",17.041207,13.024467,21.858339,,69,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",18.506997,14.248252,23.574768,,74,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",13.930285,10.441336,18.175705,,60,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",15.913816,12.16863,20.406144,,68,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",16.927976,13.010007,21.596999,,72,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",17.197885,13.555909,21.507173,,83,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",19.052335,15.043083,23.759751,,86,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",16.441019,12.706615,20.876753,,73,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",15.23575,11.774793,19.360278,,73,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",12.737024,9.734958,16.359924,,67,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",15.899276,12.414011,20.025326,,78,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",16.583009,13.19061,20.570538,,90,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",11.760874,8.92764,15.191593,,63,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",14.876843,11.682431,18.660339,,82,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",18.272493,14.77716,22.335741,,103,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",15.881843,12.676652,19.642781,,91,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",13.155289,10.421446,16.403676,,85,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",13.844186,11.026139,17.175451,,87,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",5,"Non-Hispanic American Indian / Alaska Native",1,"All ages",1,"Observed",14.030691,11.191847,17.380118,,88,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.78796,17.02308,18.576139,,2438,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.046855,16.308378,17.807882,,2412,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.971921,17.230151,18.735257,,2652,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.901848,17.180408,18.643798,,2748,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.683589,17.959256,19.427669,,2988,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.693106,17.984358,19.420721,,3069,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.836472,17.168046,18.522618,,3154,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.050891,17.389537,18.729318,,3275,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.411939,17.760027,19.080116,,3516,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.804147,18.159141,19.464721,,3714,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.753746,18.121061,19.401403,,3821,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.770664,17.170638,18.384945,,3809,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.040985,17.451391,18.644175,,4057,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.09426,17.515242,18.686357,,4207,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.671454,18.096597,19.258832,,4528,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.920279,17.368522,18.48407,,4507,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.210008,17.663834,18.767793,,4737,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.464935,17.926126,19.014919,,4983,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.197607,17.67693,18.728952,,5160,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.549278,18.030096,19.078856,,5361,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.046952,16.560331,17.543574,,5134,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",18.343283,17.847828,18.84843,,5703,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.579189,17.105185,18.062494,,5693,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",6,"Hispanic (any race)",1,"All ages",1,"Observed",17.994636,17.523481,18.47477,,5986,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.587364,20.287715,20.890447,,18093,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.825323,20.524969,21.129094,,18452,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.830957,20.531736,21.133579,,18637,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.294629,20.993054,21.599593,,19228,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.630403,21.327218,21.936967,,19694,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.65205,21.349344,21.95813,,19876,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.72986,21.427136,22.035954,,20098,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.735016,21.433445,22.039941,,20361,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.795585,21.494346,22.100166,,20633,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.60232,21.303232,21.904743,,20675,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.526911,21.2295,21.827644,,20882,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.111333,20.817773,21.4082,,20725,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.27655,20.983165,21.573222,,21153,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.968383,20.678663,21.261371,,21124,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.381923,21.090331,21.676768,,21788,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.319876,21.029691,21.613304,,21983,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.193339,20.904524,21.485393,,22050,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.841134,20.556182,21.129309,,21923,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.713314,20.430984,20.998848,,22082,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",21.038396,20.755465,21.324515,,22722,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",19.537558,19.264448,19.813873,,21155,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",20.41504,20.135425,20.697884,,22172,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",19.671002,19.398125,19.947094,,21634,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",8,"Non-Hispanic White",1,"All ages",1,"Observed",19.559335,19.288113,19.833766,,21709,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2000,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.858722,13.191114,14.550472,,1706,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2001,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.418716,13.742548,15.118697,,1802,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2002,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.7087,14.033754,15.406995,,1882,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2003,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.040663,14.361566,15.742858,,1945,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2004,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.424367,14.739364,16.132248,,2017,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2005,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.485191,14.808241,16.184518,,2081,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2006,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.823808,14.166272,15.503395,,2027,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2007,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.025087,14.373475,15.69815,,2120,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2008,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.942495,14.294775,15.611455,,2130,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2009,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.550242,14.896723,16.224544,,2266,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2010,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.26688,14.624577,15.929614,,2272,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2011,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.097767,14.46674,15.748774,,2304,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2012,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.840379,14.225086,15.475099,,2340,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2013,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.848312,14.237119,15.478639,,2371,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2014,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.497839,14.885948,16.128232,,2580,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2015,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.80565,14.210394,15.419182,,2492,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2016,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.986977,14.39476,15.597098,,2581,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2017,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.258261,14.663264,15.870961,,2647,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2018,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",15.174317,14.588777,15.777162,,2697,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2019,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.898095,14.326193,15.486894,,2719,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2020,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.392785,12.854588,13.947672,,2480,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2021,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",14.516559,13.959779,15.089836,,2726,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2022,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.726535,13.193283,14.275884,,2643,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","race",2023,1,"Both sexes",9,"Non-Hispanic Black",1,"All ages",1,"Observed",13.753814,13.224584,14.298862,,2678,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2000,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",22.980848,22.567472,23.399753,,12224,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2001,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.286851,22.873575,23.705574,,12571,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2002,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.641178,23.228333,24.059381,,12986,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2003,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.777684,23.367157,24.19348,,13289,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2004,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.438448,24.02461,24.857489,,13853,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2005,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.673339,24.261332,25.09046,,14240,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2006,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.142284,23.739304,24.550274,,14236,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2007,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.37338,23.972309,24.779371,,14684,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2008,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.567676,24.168708,24.971475,,15097,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2009,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.311488,23.918267,24.709457,,15251,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2010,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.174847,23.787317,24.567027,,15568,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2011,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.831113,23.449807,24.216989,,15657,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2012,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.968446,23.590422,24.350946,,16129,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2013,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.799496,23.426838,24.176547,,16370,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2014,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",24.256678,23.884628,24.633034,,17091,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2015,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.972432,23.606163,24.342933,,17257,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2016,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.441141,23.082569,23.803873,,17239,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2017,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.542249,23.186717,23.901869,,17666,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2018,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.278181,22.929004,23.631367,,17870,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2019,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.414234,23.067418,23.764998,,18320,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2020,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",21.690596,21.359787,22.025302,,17284,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2021,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",23.013525,22.674241,23.356685,,18499,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2022,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",22.034215,21.70681,22.365413,,18118,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2023,2,"Male",1,"All races and ethnicities",1,"All ages",1,"Observed",22.102124,21.77769,22.430282,,18488,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2000,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.460761,16.153937,16.771947,,11013,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2001,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.504101,16.199253,16.813249,,11221,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2002,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.43139,16.128997,16.738035,,11309,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2003,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.951981,16.647009,17.261149,,11853,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2004,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",17.035276,16.731382,17.343321,,12079,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2005,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.809334,16.50918,17.113599,,12091,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2006,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.862426,16.56371,17.165204,,12316,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2007,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.805502,16.509332,17.105684,,12483,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2008,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.875871,16.581309,17.174389,,12762,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2009,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.998892,16.704992,17.296706,,13056,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2010,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.730075,16.440885,17.023124,,13112,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2011,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.312395,16.028946,16.599655,,13009,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2012,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.346773,16.065156,16.632151,,13261,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2013,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.108064,15.830419,16.389428,,13266,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2014,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.460207,16.18215,16.741926,,13842,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2015,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.214663,15.940968,16.491971,,13905,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2016,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.51222,16.237762,16.790253,,14382,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2017,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.044909,15.776238,16.317115,,14166,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2018,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.245801,15.977604,16.517493,,14575,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2019,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",16.43018,16.163444,16.700359,,15081,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2020,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",15.127207,14.872075,15.385766,,13999,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2021,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",15.858077,15.598362,16.121198,,14888,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2022,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",15.457736,15.203761,15.715068,,14773,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","sex",2023,3,"Female",1,"All races and ethnicities",1,"All ages",1,"Observed",15.345025,15.094256,15.599101,,14940,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.34316,19.094932,19.593773,,23237,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.506312,19.258846,19.75613,,23792,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.596931,19.350757,19.845425,,24295,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.95509,19.708463,20.204005,,25142,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.283474,20.036349,20.532861,,25932,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.266819,20.021481,20.514391,,26331,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.106764,19.864045,20.351688,,26552,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.152841,19.911976,20.395876,,27167,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.290829,20.050975,20.532823,,27859,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.245645,20.007787,20.485613,,28307,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",20.055921,19.821374,20.292546,,28680,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.655749,19.425444,19.888102,,28666,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.739992,19.511353,19.970646,,29390,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.543827,19.318286,19.771353,,29636,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.946316,19.720714,20.17387,,30933,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.746296,19.52346,19.971058,,31162,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.724977,19.50375,19.948109,,31621,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.547346,19.328915,19.767657,,31832,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.595186,19.378379,19.813847,,32445,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2019,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.816688,19.600566,20.034641,,33401,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2020,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",18.34434,18.137491,18.553004,,31283,TRUE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2021,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.45084,19.238365,19.665128,,33387,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2022,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",18.973233,18.764699,19.183559,,32891,FALSE
+"nhl","Non-Hodgkin lymphoma","incidence","delay",2023,1,"Both sexes",1,"All races and ethnicities",1,"All ages",2,"Delay-adjusted",19.335628,19.124891,19.548152,,33428,FALSE

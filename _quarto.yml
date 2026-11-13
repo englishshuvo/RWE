@@ -7,6 +7,8 @@ project:
     - brfss-2022-sleep-fmd/docs/sap.qmd
     - brfss-2022-sleep-fmd/docs/amendments.qmd
     - faers-jak-tnf-signals/docs/case-study.qmd
+    - seer-heme-survival-trends/docs/case-study.qmd
+    - seer-heme-survival-trends/docs/protocol.qmd
 
 website:
   title: "Real-world evidence"
@@ -16,6 +18,10 @@ website:
         text: Sleep and distress
       - href: faers-jak-tnf-signals/docs/case-study.qmd
         text: JAK and TNF
+      - href: seer-heme-survival-trends/docs/case-study.qmd
+        text: Heme trends
+      - href: seer-heme-survival-trends/docs/protocol.qmd
+        text: Heme plan
       - href: brfss-2022-sleep-fmd/docs/protocol.qmd
         text: Protocol
       - href: brfss-2022-sleep-fmd/docs/sap.qmd

@@ -1,0 +1,76 @@
+---
+title: "Plan: blood cancer incidence and survival in SEER"
+subtitle: "Multiple myeloma, CLL, and non-Hodgkin lymphoma. Public SEER*Explorer rates."
+date: last-modified
+---
+
+This is a short plan for a descriptive study. I am not writing it for an employer, and it is not a statement from Nebraska DHHS or from any company. The case study is the note that carries the numbers, after the pipeline has run.
+
+## Question
+
+In US SEER registries, how did age-adjusted incidence and 5-year relative survival change from 2000 to the latest year the public tables cover, for multiple myeloma, chronic lymphocytic leukemia, and non-Hodgkin lymphoma? Where the tables allow it, how do those series differ by sex, age, and race or ethnicity, and how did the survival gap between the available race groups change?
+
+## What this is not
+
+SEER does not record the drug a person received. A vertical line at an FDA approval date is context for a reader who knows the treatment era. It is not an effect of that drug. Nothing here is a claim about a product from Johnson & Johnson, AbbVie, Roche, or anyone else.
+
+The lymphoma series is non-Hodgkin lymphoma if diffuse large B-cell lymphoma is not its own site in the source. I will say so in the case study rather than treat the broader group as if it were DLBCL.
+
+## Source
+
+Public aggregate rates from SEER*Explorer (`https://seer.cancer.gov/statistics-network/explorer/`). The pipeline calls the same JSON endpoints the site uses to draw a chart. It does not use SEER*Stat case listings, which need a signed data agreement.
+
+The bulk Excel archive on the SEER*Explorer data-archive page stops at the November 2024 submission. The interactive site was updated on 22 April 2026 to the November 2025 submission. The pipeline uses the interactive site's public JSON, records the URL and the SHA-256 of each response, and stops if the footnotes no longer say November 2025, SEER 21, or SEER 21 excluding Illinois.
+
+Incidence recent trends are SEER 21. Five-year relative survival recent trends are SEER 21 excluding Illinois. Rates are age-adjusted to the 2000 US standard population. Survival is relative survival.
+
+## Measures
+
+For each cancer, from 2000 through the last year in the file:
+
+- Observed age-adjusted incidence, both sexes, all races, all ages, all stages.
+- The same incidence series by sex, by the race and ethnicity groups the incidence endpoint offers, and by age under 50, 50 to 64, and 65 and older.
+- Delay-adjusted incidence for both sexes, all races, and all ages. This is the check on the most recent observed year, which is still filling in.
+- Observed 5-year relative survival for the same sex and age splits.
+- Observed 5-year relative survival for the race groups the survival endpoint actually offers.
+
+The survival endpoint in this application offers all races, White (includes Hispanic), and Black (includes Hispanic). It does not offer the non-Hispanic groups that incidence offers. The gap is White minus Black, in percentage points. I will not relabel those groups as non-Hispanic.
+
+A rate is kept only when the estimate is present and the case count is at least 16. That is the SEER suppression threshold. Smaller cells are not written. A modeled 5-year survival for a year that has no observed 5-year rate is not copied into the table or the figure.
+
+SEER already publishes joinpoint segments. I report those segments. I do not fit a second joinpoint model. For incidence, the segment summary is an annual percent change, and the 2020 rate is displayed but left out of SEER's fit. For survival, the segment summary is an average absolute change in percentage points per year. The download names that field `apc`. The footnote defines it as the absolute change, and the write-up follows the footnote.
+
+## Figures
+
+Three PNG files, drawn with ggplot2:
+
+1. Observed 5-year relative survival for each cancer, with FDA approval dates as vertical lines.
+2. Age-adjusted incidence for each cancer, observed points and a delay-adjusted line.
+3. The White-minus-Black survival gap over diagnosis year.
+
+## Approval dates drawn on the survival figure
+
+These are first approvals for a relevant indication, taken from FDA orphan-drug listings, approval letters, or approval packages. Later supplements are not drawn.
+
+| Drug | Date | Cancer on the figure | Indication used for the line |
+| --- | --- | --- | --- |
+| Bortezomib | 13 May 2003 | Multiple myeloma | After at least two prior therapies |
+| Lenalidomide | 29 June 2006 | Multiple myeloma | With dexamethasone, after at least one prior therapy. Not the 27 December 2005 myelodysplastic syndrome approval. |
+| Daratumumab | 16 November 2015 | Multiple myeloma | After at least three prior lines, or double-refractory |
+| Ibrutinib | 12 February 2014 | CLL | After at least one prior therapy. Not the 13 November 2013 mantle cell approval. |
+| Venetoclax | 11 April 2016 | CLL | 17p deletion, after at least one prior therapy |
+| Polatuzumab vedotin | 10 June 2019 | Non-Hodgkin lymphoma | Relapsed or refractory DLBCL, after at least two prior therapies. The series is still all non-Hodgkin lymphoma. |
+
+Rituximab's 26 November 1997 approval for relapsed or refractory low-grade or follicular B-cell non-Hodgkin lymphoma is cited and not drawn, because it is before 2000. Polatuzumab vedotin's 19 April 2023 approval for previously untreated DLBCL is cited and not drawn, because this release has no observed 5-year survival for 2023 diagnoses.
+
+## Reproduce
+
+From the repository root:
+
+```bash
+Rscript -e 'install.packages("renv", repos="https://cloud.r-project.org")'
+Rscript -e 'renv::restore(project="seer-heme-survival-trends", prompt=FALSE)'
+Rscript seer-heme-survival-trends/run.R
+```
+
+`run.R test` does not call SEER. Downloaded JSON stays in `data/`, which is gitignored. Aggregate tables and the three figures are written to `output/`.

@@ -1,0 +1,457 @@
+"cancer","cancer_label","measure","slice","year","sex","sex_label","race","race_label","age_range","age_label","rate_type","rate_type_label","estimate","ci_low","ci_high","std_error","count","covid_year"
+"myeloma","Multiple myeloma","survival","sex",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,35.707802,34.284541,37.132714,0.726775,5580,FALSE
+"myeloma","Multiple myeloma","survival","sex",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,37.752315,36.310435,39.192741,0.735479,5590,FALSE
+"myeloma","Multiple myeloma","survival","sex",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,40.480457,39.034057,41.921419,0.736756,5727,FALSE
+"myeloma","Multiple myeloma","survival","sex",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,42.45486,41.005403,43.896094,0.737597,5793,FALSE
+"myeloma","Multiple myeloma","survival","sex",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,43.869465,42.445113,45.284009,0.724369,6093,FALSE
+"myeloma","Multiple myeloma","survival","sex",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,45.192077,43.786492,46.586431,0.714419,6294,FALSE
+"myeloma","Multiple myeloma","survival","sex",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,46.799316,45.373645,48.211355,0.724053,6174,FALSE
+"myeloma","Multiple myeloma","survival","sex",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,49.240656,47.818705,50.645911,0.721362,6236,FALSE
+"myeloma","Multiple myeloma","survival","sex",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,51.614258,50.234253,52.97563,0.699446,6683,FALSE
+"myeloma","Multiple myeloma","survival","sex",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,52.418432,51.069509,53.748593,0.683545,7072,FALSE
+"myeloma","Multiple myeloma","survival","sex",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,54.016379,52.689226,55.323505,0.672104,7284,FALSE
+"myeloma","Multiple myeloma","survival","sex",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,54.769077,53.468295,56.049756,0.658622,7577,FALSE
+"myeloma","Multiple myeloma","survival","sex",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,57.08929,55.811466,58.34508,0.646404,7891,FALSE
+"myeloma","Multiple myeloma","survival","sex",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,57.330618,56.05924,58.579904,0.643098,8008,FALSE
+"myeloma","Multiple myeloma","survival","sex",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,59.259787,58.008607,60.487353,0.632394,8265,FALSE
+"myeloma","Multiple myeloma","survival","sex",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,61.610658,60.38527,62.810637,0.618764,8655,FALSE
+"myeloma","Multiple myeloma","survival","sex",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,61.84862,60.650994,63.021686,0.604813,9129,FALSE
+"myeloma","Multiple myeloma","survival","sex",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,62.887063,61.699332,64.049419,0.599551,9257,FALSE
+"myeloma","Multiple myeloma","survival","sex",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,64.47446,63.274709,65.646334,0.605039,9186,FALSE
+"myeloma","Multiple myeloma","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,55.299776,50.827256,59.536816,2.224673,524,FALSE
+"myeloma","Multiple myeloma","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,64.618356,60.420911,68.491431,2.059693,570,FALSE
+"myeloma","Multiple myeloma","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,60.130736,55.882147,64.108076,2.100192,576,FALSE
+"myeloma","Multiple myeloma","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,64.797484,60.566205,68.69676,2.074992,559,FALSE
+"myeloma","Multiple myeloma","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,63.108992,58.986174,66.938655,2.029813,599,FALSE
+"myeloma","Multiple myeloma","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,64.225009,60.155872,67.993814,2.000359,604,FALSE
+"myeloma","Multiple myeloma","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,67.877732,63.778627,71.61975,2.000427,579,FALSE
+"myeloma","Multiple myeloma","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,68.123139,64.052924,71.837304,1.985891,585,FALSE
+"myeloma","Multiple myeloma","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,72.682048,68.929023,76.062659,1.818815,642,FALSE
+"myeloma","Multiple myeloma","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,73.814388,70.211767,77.054402,1.744387,686,FALSE
+"myeloma","Multiple myeloma","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,72.912898,69.33441,76.14768,1.737159,696,FALSE
+"myeloma","Multiple myeloma","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,74.607871,71.16814,77.703206,1.665866,731,FALSE
+"myeloma","Multiple myeloma","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,76.804522,73.397672,79.836341,1.640647,719,FALSE
+"myeloma","Multiple myeloma","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,73.493162,69.813514,76.800797,1.781308,661,FALSE
+"myeloma","Multiple myeloma","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,76.438181,72.88693,79.590857,1.708217,668,FALSE
+"myeloma","Multiple myeloma","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,79.191302,75.856189,82.121014,1.595512,702,FALSE
+"myeloma","Multiple myeloma","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,77.806631,74.403338,80.816959,1.633899,708,FALSE
+"myeloma","Multiple myeloma","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,77.899165,74.659812,80.778863,1.559014,776,FALSE
+"myeloma","Multiple myeloma","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,82.872402,79.766216,85.54552,1.470393,746,FALSE
+"myeloma","Multiple myeloma","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,45.972213,43.361051,48.541573,1.322429,1582,FALSE
+"myeloma","Multiple myeloma","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,47.183754,44.590529,49.730644,1.312071,1610,FALSE
+"myeloma","Multiple myeloma","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,51.040294,48.482623,53.537088,1.290087,1681,FALSE
+"myeloma","Multiple myeloma","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,53.437049,50.958526,55.848957,1.248123,1791,FALSE
+"myeloma","Multiple myeloma","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,53.032448,50.618145,55.385022,1.216572,1887,FALSE
+"myeloma","Multiple myeloma","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,56.316804,53.966809,58.59628,1.181406,1986,FALSE
+"myeloma","Multiple myeloma","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,57.398169,55.041488,59.679807,1.18364,1972,FALSE
+"myeloma","Multiple myeloma","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,61.174289,58.875303,63.387234,1.151276,2041,FALSE
+"myeloma","Multiple myeloma","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,62.882147,60.706733,64.973949,1.088767,2256,FALSE
+"myeloma","Multiple myeloma","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,61.588951,59.429872,63.670464,1.082003,2316,FALSE
+"myeloma","Multiple myeloma","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,61.634724,59.513857,63.680537,1.063136,2381,FALSE
+"myeloma","Multiple myeloma","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,62.212902,60.148578,64.204096,1.034751,2510,FALSE
+"myeloma","Multiple myeloma","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,65.922025,63.943903,67.820416,0.988987,2662,FALSE
+"myeloma","Multiple myeloma","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,67.803928,65.833509,69.688186,0.983367,2640,FALSE
+"myeloma","Multiple myeloma","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,67.376477,65.444617,69.227033,0.964943,2748,FALSE
+"myeloma","Multiple myeloma","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,71.119444,69.242503,72.905234,0.934304,2783,FALSE
+"myeloma","Multiple myeloma","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,70.205886,68.379512,71.949402,0.910653,2997,FALSE
+"myeloma","Multiple myeloma","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,71.335066,69.52734,73.057239,0.90042,3034,FALSE
+"myeloma","Multiple myeloma","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,71.110735,69.261071,72.871852,0.921055,2943,FALSE
+"myeloma","Multiple myeloma","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,27.106372,25.353842,28.885849,0.901492,3474,FALSE
+"myeloma","Multiple myeloma","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,27.611364,25.824213,29.424716,0.918986,3410,FALSE
+"myeloma","Multiple myeloma","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,31.116118,29.277064,32.970923,0.942791,3470,FALSE
+"myeloma","Multiple myeloma","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,31.982715,30.120536,33.858331,0.954005,3443,FALSE
+"myeloma","Multiple myeloma","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,35.030859,33.155128,36.911311,0.958664,3607,FALSE
+"myeloma","Multiple myeloma","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,35.132642,33.284278,36.985318,0.944577,3704,FALSE
+"myeloma","Multiple myeloma","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,36.712901,34.824242,38.601779,0.964099,3623,FALSE
+"myeloma","Multiple myeloma","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,38.464704,36.559312,40.365722,0.971455,3610,FALSE
+"myeloma","Multiple myeloma","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,40.268014,38.380615,42.146681,0.96113,3785,FALSE
+"myeloma","Multiple myeloma","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,42.742251,40.892841,44.577658,0.940355,4070,FALSE
+"myeloma","Multiple myeloma","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,45.918842,44.076054,47.740814,0.935204,4207,FALSE
+"myeloma","Multiple myeloma","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,46.423523,44.607569,48.218206,0.921379,4336,FALSE
+"myeloma","Multiple myeloma","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,48.053323,46.255755,49.826721,0.911235,4510,FALSE
+"myeloma","Multiple myeloma","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,48.497628,46.741246,50.23006,0.890257,4707,FALSE
+"myeloma","Multiple myeloma","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,51.739867,49.989875,53.459759,0.885398,4849,FALSE
+"myeloma","Multiple myeloma","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,53.422012,51.713272,55.098844,0.863861,5170,FALSE
+"myeloma","Multiple myeloma","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,54.536618,52.858463,56.181903,0.847993,5424,FALSE
+"myeloma","Multiple myeloma","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,55.433455,53.751459,57.080722,0.849472,5447,FALSE
+"myeloma","Multiple myeloma","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,57.985101,56.292725,59.637225,0.853339,5497,FALSE
+"myeloma","Multiple myeloma","survival","race",2000,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,35.17904,33.573405,36.787831,0.820294,4355,FALSE
+"myeloma","Multiple myeloma","survival","race",2001,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,37.287196,35.65479,38.918637,0.832899,4330,FALSE
+"myeloma","Multiple myeloma","survival","race",2002,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,39.958903,38.305294,41.606379,0.842388,4389,FALSE
+"myeloma","Multiple myeloma","survival","race",2003,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,42.368587,40.710498,44.016081,0.84352,4436,FALSE
+"myeloma","Multiple myeloma","survival","race",2004,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,43.646799,42.008028,45.272988,0.833139,4605,FALSE
+"myeloma","Multiple myeloma","survival","race",2005,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,44.037439,42.421795,45.640194,0.821249,4745,FALSE
+"myeloma","Multiple myeloma","survival","race",2006,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,46.6988,45.053147,48.326491,0.83526,4676,FALSE
+"myeloma","Multiple myeloma","survival","race",2007,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,48.600075,46.955554,50.223404,0.833844,4690,FALSE
+"myeloma","Multiple myeloma","survival","race",2008,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,51.011989,49.398131,52.601433,0.817351,4937,FALSE
+"myeloma","Multiple myeloma","survival","race",2009,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,52.037034,50.45761,53.591418,0.799606,5226,FALSE
+"myeloma","Multiple myeloma","survival","race",2010,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,53.514094,51.960707,55.04092,0.785917,5373,FALSE
+"myeloma","Multiple myeloma","survival","race",2011,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,53.763157,52.228319,55.27167,0.776507,5502,FALSE
+"myeloma","Multiple myeloma","survival","race",2012,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,55.489023,53.98372,56.966362,0.761003,5740,FALSE
+"myeloma","Multiple myeloma","survival","race",2013,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,56.354329,54.844452,57.834714,0.762942,5742,FALSE
+"myeloma","Multiple myeloma","survival","race",2014,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,58.952258,57.480416,60.392027,0.742854,6070,FALSE
+"myeloma","Multiple myeloma","survival","race",2015,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,60.998962,59.541194,62.421944,0.734965,6243,FALSE
+"myeloma","Multiple myeloma","survival","race",2016,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,61.140639,59.71271,62.534948,0.720033,6541,FALSE
+"myeloma","Multiple myeloma","survival","race",2017,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,62.798243,61.378323,64.182197,0.715336,6547,FALSE
+"myeloma","Multiple myeloma","survival","race",2018,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,63.418025,61.977096,64.820844,0.725506,6493,FALSE
+"myeloma","Multiple myeloma","survival","race",2000,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,38.026286,34.600113,41.442135,1.747886,997,FALSE
+"myeloma","Multiple myeloma","survival","race",2001,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,38.485886,35.060791,41.896847,1.746327,1020,FALSE
+"myeloma","Multiple myeloma","survival","race",2002,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,42.43647,39.063447,45.765559,1.711783,1071,FALSE
+"myeloma","Multiple myeloma","survival","race",2003,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,42.079739,38.747125,45.372025,1.692037,1103,FALSE
+"myeloma","Multiple myeloma","survival","race",2004,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,45.309065,42.05665,48.501298,1.645732,1212,FALSE
+"myeloma","Multiple myeloma","survival","race",2005,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,48.809155,45.601994,51.935437,1.617112,1249,FALSE
+"myeloma","Multiple myeloma","survival","race",2006,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,47.527371,44.296267,50.684675,1.631233,1208,FALSE
+"myeloma","Multiple myeloma","survival","race",2007,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,51.214111,47.986605,54.344184,1.623166,1233,FALSE
+"myeloma","Multiple myeloma","survival","race",2008,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,52.118718,49.058798,55.085597,1.538549,1366,FALSE
+"myeloma","Multiple myeloma","survival","race",2009,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,53.882537,50.912277,56.75513,1.491456,1458,FALSE
+"myeloma","Multiple myeloma","survival","race",2010,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,56.535129,53.562158,59.394854,1.488744,1473,FALSE
+"myeloma","Multiple myeloma","survival","race",2011,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,57.338302,54.511192,60.058444,1.415784,1623,FALSE
+"myeloma","Multiple myeloma","survival","race",2012,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,60.022673,57.262489,62.666305,1.379035,1704,FALSE
+"myeloma","Multiple myeloma","survival","race",2013,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,59.987348,57.26095,62.600163,1.362538,1765,FALSE
+"myeloma","Multiple myeloma","survival","race",2014,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,58.961071,56.145987,61.661095,1.407504,1652,FALSE
+"myeloma","Multiple myeloma","survival","race",2015,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,62.666797,59.997369,65.212654,1.330778,1822,FALSE
+"myeloma","Multiple myeloma","survival","race",2016,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,64.094903,61.499742,66.565247,1.292477,1977,FALSE
+"myeloma","Multiple myeloma","survival","race",2017,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,62.004226,59.427564,64.469046,1.286435,2037,FALSE
+"myeloma","Multiple myeloma","survival","race",2018,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,65.889713,63.338638,68.30991,1.26834,2063,FALSE
+"myeloma","Multiple myeloma","survival","sex",2000,2,"Male",1,"All races and ethnicities",1,"All ages",,,35.939187,33.950698,37.930217,1.015709,2917,FALSE
+"myeloma","Multiple myeloma","survival","sex",2001,2,"Male",1,"All races and ethnicities",1,"All ages",,,38.312549,36.290754,40.329865,1.030901,2903,FALSE
+"myeloma","Multiple myeloma","survival","sex",2002,2,"Male",1,"All races and ethnicities",1,"All ages",,,39.790909,37.796219,41.777144,1.016017,3037,FALSE
+"myeloma","Multiple myeloma","survival","sex",2003,2,"Male",1,"All races and ethnicities",1,"All ages",,,41.297242,39.297762,43.284165,1.017398,3052,FALSE
+"myeloma","Multiple myeloma","survival","sex",2004,2,"Male",1,"All races and ethnicities",1,"All ages",,,44.903094,42.921206,46.863457,1.006078,3231,FALSE
+"myeloma","Multiple myeloma","survival","sex",2005,2,"Male",1,"All races and ethnicities",1,"All ages",,,45.831422,43.867318,47.772111,0.996501,3288,FALSE
+"myeloma","Multiple myeloma","survival","sex",2006,2,"Male",1,"All races and ethnicities",1,"All ages",,,48.399715,46.430861,50.338765,0.997267,3337,FALSE
+"myeloma","Multiple myeloma","survival","sex",2007,2,"Male",1,"All races and ethnicities",1,"All ages",,,49.475269,47.528931,51.389905,0.985271,3410,FALSE
+"myeloma","Multiple myeloma","survival","sex",2008,2,"Male",1,"All races and ethnicities",1,"All ages",,,51.896336,49.979515,53.776736,0.968966,3543,FALSE
+"myeloma","Multiple myeloma","survival","sex",2009,2,"Male",1,"All races and ethnicities",1,"All ages",,,52.99644,51.13296,54.823004,0.941592,3791,FALSE
+"myeloma","Multiple myeloma","survival","sex",2010,2,"Male",1,"All races and ethnicities",1,"All ages",,,52.623545,50.795681,54.416687,0.92397,3934,FALSE
+"myeloma","Multiple myeloma","survival","sex",2011,2,"Male",1,"All races and ethnicities",1,"All ages",,,55.179274,53.391445,56.928469,0.902506,4113,FALSE
+"myeloma","Multiple myeloma","survival","sex",2012,2,"Male",1,"All races and ethnicities",1,"All ages",,,56.548328,54.802497,58.254442,0.880776,4340,FALSE
+"myeloma","Multiple myeloma","survival","sex",2013,2,"Male",1,"All races and ethnicities",1,"All ages",,,57.210861,55.477782,58.903405,0.874051,4433,FALSE
+"myeloma","Multiple myeloma","survival","sex",2014,2,"Male",1,"All races and ethnicities",1,"All ages",,,59.453547,57.740475,61.122238,0.862835,4535,FALSE
+"myeloma","Multiple myeloma","survival","sex",2015,2,"Male",1,"All races and ethnicities",1,"All ages",,,62.247358,60.546991,63.897715,0.854883,4691,FALSE
+"myeloma","Multiple myeloma","survival","sex",2016,2,"Male",1,"All races and ethnicities",1,"All ages",,,61.026512,59.377936,62.630681,0.829892,5029,FALSE
+"myeloma","Multiple myeloma","survival","sex",2017,2,"Male",1,"All races and ethnicities",1,"All ages",,,63.377665,61.749315,64.957603,0.818523,5090,FALSE
+"myeloma","Multiple myeloma","survival","sex",2018,2,"Male",1,"All races and ethnicities",1,"All ages",,,64.566778,62.904466,66.175827,0.834602,4988,FALSE
+"myeloma","Multiple myeloma","survival","sex",2000,3,"Female",1,"All races and ethnicities",1,"All ages",,,35.4617,33.425964,37.501613,1.040277,2663,FALSE
+"myeloma","Multiple myeloma","survival","sex",2001,3,"Female",1,"All races and ethnicities",1,"All ages",,,37.152368,35.096326,39.207307,1.04928,2687,FALSE
+"myeloma","Multiple myeloma","survival","sex",2002,3,"Female",1,"All races and ethnicities",1,"All ages",,,41.258153,39.155432,43.347109,1.069837,2690,FALSE
+"myeloma","Multiple myeloma","survival","sex",2003,3,"Female",1,"All races and ethnicities",1,"All ages",,,43.728944,41.622066,45.814846,1.070084,2741,FALSE
+"myeloma","Multiple myeloma","survival","sex",2004,3,"Female",1,"All races and ethnicities",1,"All ages",,,42.710182,40.658147,44.745085,1.043061,2862,FALSE
+"myeloma","Multiple myeloma","survival","sex",2005,3,"Female",1,"All races and ethnicities",1,"All ages",,,44.495315,42.477573,46.491809,1.024468,3006,FALSE
+"myeloma","Multiple myeloma","survival","sex",2006,3,"Female",1,"All races and ethnicities",1,"All ages",,,44.944399,42.872102,46.993064,1.051723,2837,FALSE
+"myeloma","Multiple myeloma","survival","sex",2007,3,"Female",1,"All races and ethnicities",1,"All ages",,,48.957445,46.865606,51.014139,1.058711,2826,FALSE
+"myeloma","Multiple myeloma","survival","sex",2008,3,"Female",1,"All races and ethnicities",1,"All ages",,,51.299615,49.300599,53.26058,1.010531,3140,FALSE
+"myeloma","Multiple myeloma","survival","sex",2009,3,"Female",1,"All races and ethnicities",1,"All ages",,,51.752093,49.786391,53.679868,0.993545,3281,FALSE
+"myeloma","Multiple myeloma","survival","sex",2010,3,"Female",1,"All races and ethnicities",1,"All ages",,,55.604856,53.6653,57.497945,0.977967,3350,FALSE
+"myeloma","Multiple myeloma","survival","sex",2011,3,"Female",1,"All races and ethnicities",1,"All ages",,,54.287834,52.379714,56.154178,0.96313,3464,FALSE
+"myeloma","Multiple myeloma","survival","sex",2012,3,"Female",1,"All races and ethnicities",1,"All ages",,,57.739812,55.851505,59.578768,0.951039,3551,FALSE
+"myeloma","Multiple myeloma","survival","sex",2013,3,"Female",1,"All races and ethnicities",1,"All ages",,,57.475657,55.591379,59.311454,0.949208,3575,FALSE
+"myeloma","Multiple myeloma","survival","sex",2014,3,"Female",1,"All races and ethnicities",1,"All ages",,,59.017233,57.171231,60.8129,0.929175,3730,FALSE
+"myeloma","Multiple myeloma","survival","sex",2015,3,"Female",1,"All races and ethnicities",1,"All ages",,,60.873081,59.091119,62.603652,0.896193,3964,FALSE
+"myeloma","Multiple myeloma","survival","sex",2016,3,"Female",1,"All races and ethnicities",1,"All ages",,,62.842971,61.08752,64.543666,0.881778,4100,FALSE
+"myeloma","Multiple myeloma","survival","sex",2017,3,"Female",1,"All races and ethnicities",1,"All ages",,,62.302638,60.550547,64.00154,0.880469,4167,FALSE
+"myeloma","Multiple myeloma","survival","sex",2018,3,"Female",1,"All races and ethnicities",1,"All ages",,,64.363775,62.614535,66.05468,0.877673,4198,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,78.661235,76.818208,80.376983,0.907415,4228,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,78.023688,76.247188,79.685554,0.876785,4477,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,79.594241,77.819451,81.244597,0.873303,4442,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,77.914467,76.207875,79.515604,0.843505,4824,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,80.897924,79.260834,82.420483,0.805582,5011,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,82.384534,80.753846,83.891149,0.799761,5034,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,83.163456,81.584257,84.620273,0.773901,5211,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,84.594938,83.042282,86.017627,0.758297,5162,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,85.483708,83.951345,86.881387,0.746652,5256,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,86.325557,84.855425,87.663521,0.715519,5602,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,85.550723,84.086418,86.890977,0.714733,5799,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,88.798193,87.393887,90.05507,0.677708,5851,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,88.052981,86.648366,89.319057,0.680292,5919,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,87.880504,86.505559,89.124286,0.667127,6215,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,90.62277,89.278615,91.806212,0.643278,6440,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,90.559238,89.229128,91.732771,0.637233,6459,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,90.029434,88.682488,91.224087,0.647029,6447,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,90.149833,88.809272,91.337717,0.643657,6625,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,90.864778,89.503281,92.057583,0.649945,6440,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,92.233003,87.9934,95.017655,1.745222,294,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,89.102277,84.650527,92.321242,1.928013,306,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,92.742223,88.572735,95.429339,1.699031,293,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,90.684703,86.606901,93.566851,1.74464,332,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,90.105184,85.80897,93.152421,1.841779,309,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,92.996653,89.027487,95.565533,1.620797,313,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,93.404321,89.778433,95.77409,1.487949,356,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,94.971405,91.298484,97.118246,1.41963,319,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,94.334335,90.714905,96.569358,1.440928,336,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,94.291341,90.751208,96.502362,1.417877,348,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,94.059866,90.356324,96.369474,1.482325,325,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,95.907236,92.79348,97.692226,1.190326,363,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,93.711669,90.035959,96.060884,1.490591,337,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,95.579728,92.045703,97.564216,1.336365,324,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,95.242747,91.736075,97.283275,1.351904,338,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,94.915675,91.569689,96.955567,1.322645,370,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,94.544279,90.902376,96.75411,1.436309,334,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,96.637002,93.14616,98.365318,1.231621,338,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,95.170433,91.549147,97.26296,1.39094,346,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,85.874403,83.339001,88.051945,1.19866,1188,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,86.508855,84.08457,88.589191,1.145576,1260,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,89.472681,87.206933,91.357162,1.053626,1303,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,88.003402,85.712681,89.948572,1.076612,1328,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,91.079662,89.007123,92.777386,0.956193,1417,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,91.132156,89.097825,92.802293,0.939623,1459,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,90.74658,88.786504,92.378835,0.911939,1573,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,91.650908,89.771457,93.198164,0.869264,1633,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,92.339842,90.508273,93.830077,0.842,1648,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,93.54045,91.831898,94.901564,0.776902,1771,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,93.028928,91.295193,94.427927,0.793597,1767,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,94.016081,92.394956,95.300447,0.735021,1908,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,93.556853,91.899897,94.884322,0.75562,1887,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,92.666682,91.019825,94.021486,0.761334,1984,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,95.164449,93.620797,96.341869,0.686212,1999,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,95.136428,93.607538,96.306872,0.680944,2054,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,93.847434,92.25127,95.123517,0.727089,2034,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,94.456256,92.880154,95.691566,0.710616,2102,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,93.809958,92.129441,95.141135,0.761898,1946,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,73.430991,70.781446,75.882587,1.300875,2746,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,72.524737,69.986079,74.888587,1.250343,2911,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,72.950612,70.362351,75.353814,1.272975,2846,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,71.499196,69.079466,73.766931,1.195603,3164,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,74.988846,72.644105,77.165229,1.152909,3285,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,76.789723,74.415988,78.975228,1.162416,3262,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,77.819871,75.461793,79.982207,1.152391,3282,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,79.414997,77.065421,81.553365,1.143873,3210,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,80.614409,78.28764,82.719953,1.129493,3272,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,81.302989,79.062213,83.32977,1.087458,3483,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,80.676502,78.500367,82.657256,1.059432,3707,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,84.85222,82.662685,86.787666,1.050274,3580,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,84.364907,82.2263,86.26802,1.029312,3695,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,84.465711,82.386748,86.319989,1.001746,3907,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,87.728478,85.68987,89.49466,0.967883,4103,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,87.562148,85.513679,89.339202,0.973218,4035,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,87.510035,85.467259,89.283871,0.970991,4079,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,87.153941,85.119857,88.928264,0.969092,4185,FALSE
+"cll","Chronic lymphocytic leukemia","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,88.989156,86.95486,90.723285,0.957889,4148,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2000,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,79.410729,77.482778,81.19417,0.946217,3858,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2001,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,78.979459,77.116523,80.710229,0.916286,4082,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2002,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,80.334592,78.47049,82.05621,0.914124,4038,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2003,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,78.813424,77.014577,80.489832,0.886128,4379,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2004,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,81.563221,79.848894,83.147459,0.840894,4571,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2005,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,83.066863,81.356403,84.635524,0.835774,4589,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2006,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,83.415425,81.748996,84.943997,0.814328,4730,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2007,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,84.959751,83.327132,86.445736,0.794677,4704,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2008,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,86.226201,84.608725,87.686258,0.784009,4783,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2009,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,86.727821,85.177323,88.127605,0.75158,5088,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2010,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,86.266678,84.717334,87.670562,0.752417,5235,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2011,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,89.776011,88.276286,91.093662,0.717,5205,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2012,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,88.596977,87.098974,89.931213,0.721164,5278,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2013,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,88.304615,86.82762,89.626016,0.712656,5493,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2014,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,90.781166,89.337615,92.038061,0.686966,5712,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2015,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,90.915129,89.485076,92.159283,0.680264,5699,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2016,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,90.435585,88.997604,91.694475,0.686217,5738,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2017,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,90.960982,89.524287,92.209285,0.682971,5870,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2018,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,91.217202,89.743821,92.487846,0.697753,5646,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2000,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,66.592935,58.813666,73.24061,3.683033,294,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2001,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,63.909227,56.644889,70.28158,3.483675,305,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2002,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,68.711523,61.357628,74.954485,3.468269,312,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2003,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,66.789803,60.103927,72.615116,3.193188,339,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2004,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,69.520696,62.067442,75.797391,3.50107,305,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2005,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,71.244911,64.27907,77.096551,3.266298,340,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2006,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,75.377951,68.433507,81.007268,3.197251,331,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2007,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,76.967745,70.060974,82.480527,3.154615,325,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2008,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,71.222798,64.152994,77.148687,3.311651,297,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2009,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,78.320374,71.42824,83.739001,3.123518,333,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2010,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,73.652226,67.279375,78.979536,2.979085,368,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2011,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,76.616284,70.845217,81.396211,2.68369,429,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2012,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,80.640876,74.796716,85.263582,2.654435,435,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2013,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,81.260251,75.890201,85.548464,2.450112,484,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2014,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,86.610651,81.163241,90.57373,2.368586,484,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2015,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,85.283161,79.772155,89.392184,2.427172,477,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2016,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,81.809205,75.885593,86.407925,2.664895,447,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2017,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,80.28227,74.652803,84.789253,2.572398,471,FALSE
+"cll","Chronic lymphocytic leukemia","survival","race",2018,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,84.831756,79.147138,89.073271,2.504921,470,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2000,2,"Male",1,"All races and ethnicities",1,"All ages",,,77.902414,75.495255,80.105095,1.175144,2516,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2001,2,"Male",1,"All races and ethnicities",1,"All ages",,,76.880251,74.538518,79.037768,1.147127,2617,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2002,2,"Male",1,"All races and ethnicities",1,"All ages",,,78.354425,76.000341,80.50798,1.149059,2595,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2003,2,"Male",1,"All races and ethnicities",1,"All ages",,,77.418276,75.149907,79.508613,1.11127,2788,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2004,2,"Male",1,"All races and ethnicities",1,"All ages",,,78.929932,76.738562,80.94116,1.071331,2887,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2005,2,"Male",1,"All races and ethnicities",1,"All ages",,,82.842003,80.664008,84.798216,1.053218,2879,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2006,2,"Male",1,"All races and ethnicities",1,"All ages",,,81.299997,79.211394,83.2015,1.016902,3042,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2007,2,"Male",1,"All races and ethnicities",1,"All ages",,,84.609832,82.542691,86.452608,0.995783,2956,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2008,2,"Male",1,"All races and ethnicities",1,"All ages",,,85.781979,83.768793,87.564263,0.966371,3116,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2009,2,"Male",1,"All races and ethnicities",1,"All ages",,,86.288618,84.354166,88.001139,0.928535,3306,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2010,2,"Male",1,"All races and ethnicities",1,"All ages",,,85.275086,83.323991,87.015963,0.940269,3379,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2011,2,"Male",1,"All races and ethnicities",1,"All ages",,,88.560977,86.70598,90.171955,0.881729,3449,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2012,2,"Male",1,"All races and ethnicities",1,"All ages",,,87.952328,86.115725,89.560878,0.876747,3549,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2013,2,"Male",1,"All races and ethnicities",1,"All ages",,,87.214877,85.395275,88.822799,0.872568,3714,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2014,2,"Male",1,"All races and ethnicities",1,"All ages",,,89.951496,88.161554,91.483981,0.844627,3792,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2015,2,"Male",1,"All races and ethnicities",1,"All ages",,,89.536099,87.787723,91.047047,0.828942,3843,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2016,2,"Male",1,"All races and ethnicities",1,"All ages",,,89.559813,87.798797,91.079686,0.83438,3908,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2017,2,"Male",1,"All races and ethnicities",1,"All ages",,,88.119248,86.318613,89.6972,0.859816,3946,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2018,2,"Male",1,"All races and ethnicities",1,"All ages",,,89.209866,87.426281,90.753954,0.846404,3948,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2000,3,"Female",1,"All races and ethnicities",1,"All ages",,,79.787194,76.816341,82.42176,1.427843,1712,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2001,3,"Female",1,"All races and ethnicities",1,"All ages",,,79.650014,76.831789,82.166036,1.359002,1860,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2002,3,"Female",1,"All races and ethnicities",1,"All ages",,,81.339861,78.540977,83.811978,1.342353,1847,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2003,3,"Female",1,"All races and ethnicities",1,"All ages",,,78.595685,75.925003,81.00803,1.295416,2036,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2004,3,"Female",1,"All races and ethnicities",1,"All ages",,,83.589584,81.039701,85.826986,1.218722,2124,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2005,3,"Female",1,"All races and ethnicities",1,"All ages",,,81.771361,79.218257,84.042979,1.228907,2155,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2006,3,"Female",1,"All races and ethnicities",1,"All ages",,,85.797348,83.280341,87.963137,1.191088,2169,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2007,3,"Female",1,"All races and ethnicities",1,"All ages",,,84.576905,82.124544,86.720404,1.169757,2206,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2008,3,"Female",1,"All races and ethnicities",1,"All ages",,,85.048952,82.576707,87.197949,1.17595,2140,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2009,3,"Female",1,"All races and ethnicities",1,"All ages",,,86.38115,84.01091,88.424501,1.122644,2296,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2010,3,"Female",1,"All races and ethnicities",1,"All ages",,,85.933951,83.621435,87.943787,1.099814,2420,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2011,3,"Female",1,"All races and ethnicities",1,"All ages",,,89.143212,86.871107,91.042518,1.059314,2402,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2012,3,"Female",1,"All races and ethnicities",1,"All ages",,,88.205519,85.907074,90.150777,1.078414,2370,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2013,3,"Female",1,"All races and ethnicities",1,"All ages",,,88.863044,86.656002,90.724739,1.033729,2501,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2014,3,"Female",1,"All races and ethnicities",1,"All ages",,,91.586342,89.413513,93.3299,0.991924,2648,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2015,3,"Female",1,"All races and ethnicities",1,"All ages",,,92.077911,89.879582,93.815198,0.995696,2616,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2016,3,"Female",1,"All races and ethnicities",1,"All ages",,,90.750848,88.523324,92.56427,1.024503,2539,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2017,3,"Female",1,"All races and ethnicities",1,"All ages",,,93.133196,90.98191,94.78601,0.960226,2679,FALSE
+"cll","Chronic lymphocytic leukemia","survival","sex",2018,3,"Female",1,"All races and ethnicities",1,"All ages",,,93.508586,91.214853,95.219135,1.008134,2492,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2000,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,62.045041,61.203103,62.874652,0.426435,17852,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2001,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,64.641976,63.812683,65.457747,0.419674,18196,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2002,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,66.573728,65.754564,67.378456,0.414269,18418,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2003,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,67.900297,67.097865,68.687992,0.405652,19086,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2004,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,68.526274,67.735744,69.302073,0.39958,19532,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2005,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,69.311242,68.528099,70.079387,0.395741,19761,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2006,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,69.27458,68.497631,70.03679,0.392647,19993,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2007,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,70.761182,69.99712,71.509952,0.385928,20310,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2008,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,71.012201,70.256686,71.752582,0.381607,20577,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2009,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,71.904453,71.156464,72.63696,0.377677,20926,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2010,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,72.487631,71.738354,73.22093,0.378206,20671,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2011,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,73.204571,72.457327,73.935359,0.377045,20789,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2012,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,73.780455,73.043725,74.500725,0.371678,21178,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2013,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,73.96549,73.232282,74.682243,0.369882,21196,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2014,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,75.166792,74.452758,75.864242,0.360064,22191,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2015,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,74.904135,74.191333,75.600628,0.359506,22366,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2016,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,75.053088,74.343235,75.746642,0.358004,22877,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2017,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,75.217226,74.50232,75.915465,0.360488,22714,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2018,1,"Both sexes",1,"All races and ethnicities",1,"All ages",,,75.3957,74.679174,76.095331,0.361255,22842,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,71.928221,70.524398,73.278424,0.702523,4311,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,73.631787,72.245053,74.961742,0.692972,4275,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,74.797502,73.416084,76.119268,0.689505,4206,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,76.010188,74.654339,77.304938,0.676071,4238,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,77.018515,75.689995,78.285211,0.661926,4295,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,77.461127,76.129657,78.729058,0.662982,4224,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,77.836375,76.520604,79.088822,0.655022,4278,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,79.399232,78.105356,80.626417,0.642956,4231,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,80.665263,79.422132,81.842122,0.617154,4369,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,80.851482,79.607021,82.028811,0.617606,4343,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,81.90052,80.637895,83.089662,0.625204,4062,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,82.909429,81.657944,84.084044,0.618617,3991,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,84.612817,83.417727,85.729298,0.589352,4051,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,84.053831,82.845706,85.184647,0.596355,4070,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,85.614801,84.448668,86.700507,0.574077,4060,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,85.520936,84.335915,86.623554,0.583198,3960,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,85.998134,84.834486,87.07942,0.572291,4026,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,86.100447,84.933078,87.184317,0.573888,4024,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",9,"Ages <50",,,86.822646,85.66731,87.891545,0.566955,4015,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,68.969847,67.514452,70.375077,0.729756,4696,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,71.631571,70.241477,72.969797,0.695971,4950,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,74.169373,72.850129,75.435764,0.65954,5269,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,75.528641,74.246585,76.757247,0.640398,5425,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,75.333521,74.077349,76.538835,0.627861,5630,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,75.760513,74.528545,76.942464,0.615724,5831,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,75.822428,74.602505,76.993133,0.609784,5893,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,76.710355,75.531794,77.840779,0.58895,6194,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,76.84642,75.674795,77.970125,0.585466,6241,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,77.57922,76.425345,78.684769,0.576298,6335,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,78.088225,76.956433,79.172208,0.56516,6493,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,78.576292,77.452968,79.651246,0.56069,6533,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,78.662,77.551535,79.724951,0.554349,6677,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,80.053038,78.94468,81.110243,0.552319,6483,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,80.246271,79.176234,81.268024,0.533508,6898,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,79.868045,78.791807,80.896492,0.536803,6876,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,80.664966,79.603946,81.677328,0.528807,7021,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,81.039114,79.961115,82.065809,0.53678,6827,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",141,"Ages 50-64",,,79.694533,78.603751,80.736732,0.544021,6949,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2000,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,52.694906,51.348172,54.02261,0.682358,8845,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2001,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,55.788143,54.440005,57.113433,0.682088,8971,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2002,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,57.467589,56.114076,58.795914,0.684226,8943,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2003,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,59.167861,57.847679,60.4619,0.666964,9423,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2004,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,60.081002,58.770976,61.364094,0.661575,9607,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2005,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,61.306772,60.005928,62.57943,0.656563,9706,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2006,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,61.00421,59.713704,62.267373,0.651504,9822,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2007,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,62.796402,61.514025,64.049374,0.646821,9885,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2008,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,62.527119,61.253656,63.771946,0.642469,9967,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2009,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,64.066578,62.81089,65.292334,0.63306,10248,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2010,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,64.563969,63.303698,65.79339,0.635162,10116,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2011,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,65.514881,64.259139,66.738616,0.63255,10265,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2012,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,65.935503,64.694766,67.144371,0.624926,10450,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2013,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,65.953892,64.735289,67.141713,0.613909,10643,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2014,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,67.848715,66.661492,69.004038,0.597601,11233,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2015,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,67.872888,66.705974,69.008935,0.587503,11530,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2016,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,67.553933,66.390312,68.687307,0.585983,11830,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2017,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,67.74908,66.585501,68.882141,0.585891,11863,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","age",2018,1,"Both sexes",1,"All races and ethnicities",157,"Ages 65+",,,68.656696,67.489081,69.792268,0.587555,11878,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2000,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,62.851162,61.945714,63.741812,0.458209,15591,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2001,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,65.703698,64.806769,66.584032,0.453398,15713,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2002,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,67.254357,66.366156,68.12507,0.448713,15873,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2003,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,68.522637,67.651747,69.375687,0.439788,16409,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2004,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,69.412311,68.554809,70.25178,0.432905,16805,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2005,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,70.148916,69.296442,70.982939,0.430231,16902,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2006,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,70.35459,69.513656,71.177389,0.424424,17220,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2007,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,71.357704,70.524826,72.171925,0.420177,17356,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2008,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,71.446237,70.619769,72.254253,0.416959,17479,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2009,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,72.601581,71.780877,73.40305,0.413815,17636,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2010,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,72.882696,72.059456,73.686317,0.41501,17423,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2011,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,73.890832,73.06568,74.695277,0.415704,17341,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2012,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,74.295698,73.482444,75.088425,0.409678,17701,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2013,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,74.448768,73.635761,75.241102,0.409514,17629,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2014,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,75.682841,74.889703,76.455028,0.399302,18365,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2015,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,75.582443,74.792381,76.351819,0.397801,18536,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2016,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,75.723876,74.933551,76.493351,0.397893,18837,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2017,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,75.665434,74.867486,76.442197,0.401696,18624,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2018,1,"Both sexes",2,"White (includes Hispanic)",1,"All ages",,,75.601496,74.797712,76.383859,0.404614,18582,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2000,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,53.412054,50.431867,56.296613,1.497071,1392,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2001,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,54.138195,51.277405,56.906918,1.436926,1495,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2002,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,60.614996,57.826081,63.281571,1.392204,1562,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2003,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,61.741215,58.982407,64.373755,1.375772,1611,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2004,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,61.351072,58.629099,63.952269,1.358383,1626,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2005,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,60.40171,57.768561,62.926635,1.316266,1728,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2006,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,59.851765,57.160069,62.43341,1.345722,1658,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2007,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,64.653069,62.039713,67.136663,1.300476,1712,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2008,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,65.235221,62.62623,67.71144,1.29745,1727,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2009,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,64.574696,62.052066,66.976636,1.256484,1843,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2010,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,68.493525,65.956096,70.885436,1.257494,1804,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2011,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,67.041668,64.526784,69.422529,1.249007,1857,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2012,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,69.731667,67.279919,72.039504,1.214115,1888,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2013,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,70.930299,68.50294,73.208645,1.200294,1890,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2014,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,70.686066,68.333321,72.900102,1.164883,2047,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2015,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,69.530336,67.094759,71.825123,1.206675,1949,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2016,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,69.701091,67.319752,71.946623,1.180268,2071,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2017,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,70.855542,68.44703,73.117774,1.191384,2051,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","race",2018,1,"Both sexes",3,"Black (includes Hispanic)",1,"All ages",,,72.375705,69.964277,74.629946,1.189979,2054,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2000,2,"Male",1,"All races and ethnicities",1,"All ages",,,60.151797,58.987717,61.294486,0.588509,9423,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2001,2,"Male",1,"All races and ethnicities",1,"All ages",,,62.783611,61.635044,63.908547,0.580012,9602,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2002,2,"Male",1,"All races and ethnicities",1,"All ages",,,63.859034,62.724941,64.968889,0.572467,9824,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2003,2,"Male",1,"All races and ethnicities",1,"All ages",,,65.751,64.631997,66.844236,0.564369,10039,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2004,2,"Male",1,"All races and ethnicities",1,"All ages",,,66.952012,65.853843,68.02394,0.553612,10329,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2005,2,"Male",1,"All races and ethnicities",1,"All ages",,,68.366593,67.290779,69.415509,0.542032,10624,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2006,2,"Male",1,"All races and ethnicities",1,"All ages",,,67.409167,66.334036,68.458597,0.541993,10634,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2007,2,"Male",1,"All races and ethnicities",1,"All ages",,,69.466861,68.410427,70.495988,0.532034,10880,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2008,2,"Male",1,"All races and ethnicities",1,"All ages",,,69.271609,68.229568,70.287312,0.524939,11110,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2009,2,"Male",1,"All races and ethnicities",1,"All ages",,,70.011724,68.974775,71.021675,0.522169,11203,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2010,2,"Male",1,"All races and ethnicities",1,"All ages",,,70.713929,69.681228,71.718953,0.519825,11171,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2011,2,"Male",1,"All races and ethnicities",1,"All ages",,,71.621847,70.595536,72.619621,0.51634,11362,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2012,2,"Male",1,"All races and ethnicities",1,"All ages",,,72.630393,71.616223,73.61531,0.509958,11581,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2013,2,"Male",1,"All races and ethnicities",1,"All ages",,,72.56588,71.55651,73.546359,0.507602,11560,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2014,2,"Male",1,"All races and ethnicities",1,"All ages",,,73.294557,72.307324,74.253144,0.496367,12233,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2015,2,"Male",1,"All races and ethnicities",1,"All ages",,,73.041269,72.061056,73.993582,0.492977,12345,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2016,2,"Male",1,"All races and ethnicities",1,"All ages",,,73.797123,72.813298,74.75179,0.494494,12444,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2017,2,"Male",1,"All races and ethnicities",1,"All ages",,,73.558223,72.57201,74.515478,0.495765,12527,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2018,2,"Male",1,"All races and ethnicities",1,"All ages",,,73.092854,72.09905,74.057917,0.499696,12556,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2000,3,"Female",1,"All races and ethnicities",1,"All ages",,,64.162998,62.937646,65.359704,0.617908,8429,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2001,3,"Female",1,"All races and ethnicities",1,"All ages",,,66.718782,65.513136,67.893211,0.607183,8594,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2002,3,"Female",1,"All races and ethnicities",1,"All ages",,,69.672067,68.4822,70.827076,0.598183,8594,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2003,3,"Female",1,"All races and ethnicities",1,"All ages",,,70.279686,69.121536,71.403838,0.582217,9047,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2004,3,"Female",1,"All races and ethnicities",1,"All ages",,,70.287771,69.14096,71.401224,0.576595,9203,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2005,3,"Female",1,"All races and ethnicities",1,"All ages",,,70.409516,69.258032,71.527181,0.57886,9137,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2006,3,"Female",1,"All races and ethnicities",1,"All ages",,,71.393692,70.261865,72.491281,0.568718,9359,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2007,3,"Female",1,"All races and ethnicities",1,"All ages",,,72.2494,71.134349,73.329828,0.560054,9430,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2008,3,"Female",1,"All races and ethnicities",1,"All ages",,,73.051492,71.946666,74.120982,0.55465,9467,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2009,3,"Female",1,"All races and ethnicities",1,"All ages",,,74.079033,72.991327,75.130716,0.545732,9723,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2010,3,"Female",1,"All races and ethnicities",1,"All ages",,,74.570773,73.473485,75.630512,0.550226,9500,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2011,3,"Female",1,"All races and ethnicities",1,"All ages",,,75.106559,74.007673,76.16677,0.550748,9427,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2012,3,"Female",1,"All races and ethnicities",1,"All ages",,,75.162923,74.081882,76.206408,0.541931,9597,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2013,3,"Female",1,"All races and ethnicities",1,"All ages",,,75.640723,74.564982,76.678362,0.539083,9636,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2014,3,"Female",1,"All races and ethnicities",1,"All ages",,,77.451619,76.411475,78.452596,0.520634,9958,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2015,3,"Female",1,"All races and ethnicities",1,"All ages",,,77.185641,76.139955,78.192301,0.5235,10021,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2016,3,"Female",1,"All races and ethnicities",1,"All ages",,,76.546475,75.513218,77.54286,0.517718,10433,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2017,3,"Female",1,"All races and ethnicities",1,"All ages",,,77.248946,76.204002,78.254788,0.523102,10187,FALSE
+"nhl","Non-Hodgkin lymphoma","survival","sex",2018,3,"Female",1,"All races and ethnicities",1,"All ages",,,78.188027,77.148746,79.186637,0.519801,10286,FALSE

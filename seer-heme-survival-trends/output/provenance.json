@@ -1,0 +1,366 @@
+{
+  "study": "SEER blood cancer incidence and 5-year relative survival",
+  "analyst": "Dr. Rishad Ahmed, PhD in Public Health, MBA",
+  "independent_sample_work": true,
+  "employer_analysis": false,
+  "speaks_for_company": false,
+  "explorer_page": "https://seer.cancer.gov/statistics-network/explorer/application.html",
+  "archive_page": "https://seer.cancer.gov/statistics-network/explorer/archive.html",
+  "site_definitions": "https://seer.cancer.gov/statistics-network/explorer/cancer-sites.html",
+  "region5_url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php",
+  "codebook_url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/get_var_formats.php",
+  "footnote_url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/load_json_asset.php?asset=footnote-defines",
+  "notes_url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/load_json_asset.php?asset=content-notes",
+  "retrieval_started_at": "2026-11-13T02:23:18Z",
+  "retrieval_finished_at": "2026-11-13T02:23:39Z",
+  "seer_submission": "November 2025 submission (1975-2023), released in SEER*Explorer on 22 April 2026 and updated 22 June 2026",
+  "incidence_registry": "SEER 21 registries",
+  "survival_registry": "SEER 21 registries excluding Illinois",
+  "standard_population": "2000 US standard population (20 age groups, Census P25-1130)",
+  "dlbcl_in_source": false,
+  "lymphoma_series": "Non-Hodgkin lymphoma, SEER*Explorer site 86",
+  "small_cell_rule": "Rates with a case count under 16 are not written. This is the SEER suppression threshold.",
+  "covid_note": "The 2020 incidence rate(s) were not used in the fit of the trend line(s) and are displayed on the graph as gray data points. Impact of COVID on SEER Cancer Incidence 2020 data",
+  "approval_lines_are_effects": false,
+  "queries": [
+    {
+      "id": "myeloma__incidence__sex",
+      "cancer": "myeloma",
+      "measure": "incidence",
+      "slice": "sex",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=1&graph_type=2&stage=101&compareBy=sex&race=1&age_range=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "fac261f228c434e7dfd3e39900982ae4f1920c0aef5b6a78e3fb210d03a0b254",
+      "bytes": 6546,
+      "retrieved_at": "2026-11-13T02:23:19Z"
+    },
+    {
+      "id": "myeloma__incidence__race",
+      "cancer": "myeloma",
+      "measure": "incidence",
+      "slice": "race",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=1&graph_type=2&stage=101&compareBy=race&sex=1&age_range=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "cc9736fba4aaebdb5af956ea0b1ab5c643bf5563cfb9adff9dd1206d405b6360",
+      "bytes": 16158,
+      "retrieved_at": "2026-11-13T02:23:20Z"
+    },
+    {
+      "id": "myeloma__incidence__age",
+      "cancer": "myeloma",
+      "measure": "incidence",
+      "slice": "age",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=1&graph_type=2&stage=101&compareBy=age_range&sex=1&race=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "c6ee172d8ac01d6b32b893fb89700a8e0409f109b276f7d59bc39461ebf15082",
+      "bytes": 18645,
+      "retrieved_at": "2026-11-13T02:23:22Z"
+    },
+    {
+      "id": "myeloma__incidence__delay",
+      "cancer": "myeloma",
+      "measure": "incidence",
+      "slice": "delay",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=1&graph_type=2&stage=101&compareBy=sex&race=1&age_range=1&rate_type=2",
+      "http_status": 200,
+      "sha256": "cb3cec8adc2cd8cd851aa08145bcf3f09013d2b76f680ddd19823f25ae01b70c",
+      "bytes": 6151,
+      "retrieved_at": "2026-11-13T02:23:23Z"
+    },
+    {
+      "id": "myeloma__survival__sex",
+      "cancer": "myeloma",
+      "measure": "survival",
+      "slice": "sex",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=sex&race=1&age_range=1",
+      "http_status": 200,
+      "sha256": "d86855aa855c8145a3f280b1bd26524bc7705b4aa6f98cb02a2e4c15d8875cbd",
+      "bytes": 6263,
+      "retrieved_at": "2026-11-13T02:23:24Z"
+    },
+    {
+      "id": "myeloma__survival__race",
+      "cancer": "myeloma",
+      "measure": "survival",
+      "slice": "race",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=race&sex=1&age_range=1",
+      "http_status": 200,
+      "sha256": "2b2ff22610ae505f2f9b6beb0c2551137292c55056e4c2bcad5bd0a1e28e4b09",
+      "bytes": 6262,
+      "retrieved_at": "2026-11-13T02:23:24Z"
+    },
+    {
+      "id": "myeloma__survival__age",
+      "cancer": "myeloma",
+      "measure": "survival",
+      "slice": "age",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=89&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=age_range&sex=1&race=1",
+      "http_status": 200,
+      "sha256": "7c60d6f6f15faab24aa8c33cdfc812f06af3f1e8531a4e6ee50eadf5f6f98728",
+      "bytes": 8105,
+      "retrieved_at": "2026-11-13T02:23:25Z"
+    },
+    {
+      "id": "cll__incidence__sex",
+      "cancer": "cll",
+      "measure": "incidence",
+      "slice": "sex",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=1&graph_type=2&stage=101&compareBy=sex&race=1&age_range=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "b65eda929c70a7b79698d82373aa8b9ec72df29b0819622b7c31726dab25342e",
+      "bytes": 6384,
+      "retrieved_at": "2026-11-13T02:23:26Z"
+    },
+    {
+      "id": "cll__incidence__race",
+      "cancer": "cll",
+      "measure": "incidence",
+      "slice": "race",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=1&graph_type=2&stage=101&compareBy=race&sex=1&age_range=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "ced85c5ff286a4ef0a9ac9f5255132546c5bbf04cd19b53697952be9c4aaa68c",
+      "bytes": 15575,
+      "retrieved_at": "2026-11-13T02:23:27Z"
+    },
+    {
+      "id": "cll__incidence__age",
+      "cancer": "cll",
+      "measure": "incidence",
+      "slice": "age",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=1&graph_type=2&stage=101&compareBy=age_range&sex=1&race=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "b220a1323a90df025f3b281d143c665963dbe6b64952070f238fd279224e73f5",
+      "bytes": 18550,
+      "retrieved_at": "2026-11-13T02:23:29Z"
+    },
+    {
+      "id": "cll__incidence__delay",
+      "cancer": "cll",
+      "measure": "incidence",
+      "slice": "delay",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=1&graph_type=2&stage=101&compareBy=sex&race=1&age_range=1&rate_type=2",
+      "http_status": 200,
+      "sha256": "6c51d6f212ecdeb10690fad90d40b08c4eedd14d1481a74d7c00f034753a94f6",
+      "bytes": 6218,
+      "retrieved_at": "2026-11-13T02:23:30Z"
+    },
+    {
+      "id": "cll__survival__sex",
+      "cancer": "cll",
+      "measure": "survival",
+      "slice": "sex",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=sex&race=1&age_range=1",
+      "http_status": 200,
+      "sha256": "deedc4c8ec7ee1e82d57d7ff07cf43fb65b3f6eb2cf3f269f3b37f3b78400822",
+      "bytes": 6203,
+      "retrieved_at": "2026-11-13T02:23:31Z"
+    },
+    {
+      "id": "cll__survival__race",
+      "cancer": "cll",
+      "measure": "survival",
+      "slice": "race",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=race&sex=1&age_range=1",
+      "http_status": 200,
+      "sha256": "2a0cf564ac7020256270e61ecdad9ca3da975066af9469c4f39679154c6f2a69",
+      "bytes": 6249,
+      "retrieved_at": "2026-11-13T02:23:31Z"
+    },
+    {
+      "id": "cll__survival__age",
+      "cancer": "cll",
+      "measure": "survival",
+      "slice": "age",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=93&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=age_range&sex=1&race=1",
+      "http_status": 200,
+      "sha256": "fc7ba7d7c1a0bba5ba6d17ffa19a97d242be3f129af6c14fd502064546b2d6cb",
+      "bytes": 8109,
+      "retrieved_at": "2026-11-13T02:23:32Z"
+    },
+    {
+      "id": "nhl__incidence__sex",
+      "cancer": "nhl",
+      "measure": "incidence",
+      "slice": "sex",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=1&graph_type=2&stage=101&compareBy=sex&race=1&age_range=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "e21d63cf521385680ba42d5cf0e31106ec56b1e2c2bbbe79e26bf661dad2fc48",
+      "bytes": 6823,
+      "retrieved_at": "2026-11-13T02:23:33Z"
+    },
+    {
+      "id": "nhl__incidence__race",
+      "cancer": "nhl",
+      "measure": "incidence",
+      "slice": "race",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=1&graph_type=2&stage=101&compareBy=race&sex=1&age_range=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "739edbf331abadb4125f1dffeddfcb53e521400cdf218d08f6e5159f479c6753",
+      "bytes": 16772,
+      "retrieved_at": "2026-11-13T02:23:34Z"
+    },
+    {
+      "id": "nhl__incidence__age",
+      "cancer": "nhl",
+      "measure": "incidence",
+      "slice": "age",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=1&graph_type=2&stage=101&compareBy=age_range&sex=1&race=1&rate_type=1",
+      "http_status": 200,
+      "sha256": "e059349efc09c329ae1e2ff30dc39d4b75dc4d45ca0a31516d36beddaabb6a07",
+      "bytes": 20456,
+      "retrieved_at": "2026-11-13T02:23:36Z"
+    },
+    {
+      "id": "nhl__incidence__delay",
+      "cancer": "nhl",
+      "measure": "incidence",
+      "slice": "delay",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=1&graph_type=2&stage=101&compareBy=sex&race=1&age_range=1&rate_type=2",
+      "http_status": 200,
+      "sha256": "618f113c128290cee3b8cc675aa0edbeb94170376f8d2f5905ffdb8f3baff130",
+      "bytes": 6591,
+      "retrieved_at": "2026-11-13T02:23:37Z"
+    },
+    {
+      "id": "nhl__survival__sex",
+      "cancer": "nhl",
+      "measure": "survival",
+      "slice": "sex",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=sex&race=1&age_range=1",
+      "http_status": 200,
+      "sha256": "af0541799940a8c4d8350860b8e2cf730cbee1ced8a610e3210e62021492cfea",
+      "bytes": 6493,
+      "retrieved_at": "2026-11-13T02:23:38Z"
+    },
+    {
+      "id": "nhl__survival__race",
+      "cancer": "nhl",
+      "measure": "survival",
+      "slice": "race",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=race&sex=1&age_range=1",
+      "http_status": 200,
+      "sha256": "39bcc57f1cbc78654d7958932ba9aa2c8c4e7abb078ddae682b6b7d3f85f3f5f",
+      "bytes": 6429,
+      "retrieved_at": "2026-11-13T02:23:38Z"
+    },
+    {
+      "id": "nhl__survival__age",
+      "cancer": "nhl",
+      "measure": "survival",
+      "slice": "age",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/render_region_5.php?site=86&data_type=4&graph_type=2&stage=101&relative_survival_interval=5&compareBy=age_range&sex=1&race=1",
+      "http_status": 200,
+      "sha256": "72bf7c908335882a8bf151267a4299b25bb549198d634c8203d0458b30ccf1f8",
+      "bytes": 8410,
+      "retrieved_at": "2026-11-13T02:23:39Z"
+    }
+  ],
+  "support_files": {
+    "codebook": {
+      "http_status": 200,
+      "sha256": "dca053891424fc1db2813cffa2689feb7a1d3292724ff28c09c95c123ec6946d",
+      "retrieved_at": "2026-11-13T02:23:39Z",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/get_var_formats.php",
+      "path": "/agent/repos/RWE/seer-heme-survival-trends/data/cache/codebook.json",
+      "bytes": 9771
+    },
+    "footnotes": {
+      "http_status": 200,
+      "sha256": "25acb54561884e4ce46d5cb802166284d3b84a8d11841978d057b1852811d4b3",
+      "retrieved_at": "2026-11-13T02:23:39Z",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/load_json_asset.php?asset=footnote-defines",
+      "path": "/agent/repos/RWE/seer-heme-survival-trends/data/cache/footnotes.json",
+      "bytes": 15048
+    },
+    "notes": {
+      "http_status": 200,
+      "sha256": "9f2b5f231bbb3f108077d9dac29b5c12e13df862d251deaa86c35bb01d69bffc",
+      "retrieved_at": "2026-11-13T02:23:39Z",
+      "url": "https://seer.cancer.gov/statistics-network/explorer/source/content_writers/load_json_asset.php?asset=content-notes",
+      "path": "/agent/repos/RWE/seer-heme-survival-trends/data/cache/notes.json",
+      "bytes": 1071
+    }
+  },
+  "approvals": [
+    {
+      "cancer": "myeloma",
+      "date": "2003-05-13",
+      "drug": "Bortezomib",
+      "on_figure": true,
+      "indication": "Multiple myeloma after at least two prior therapies, with progression on the last therapy",
+      "source_url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=163002",
+      "source_note": "FDA orphan-drug listing, marketing approval date 05/13/2003. The FDA verified-clinical-benefit table lists the same date."
+    },
+    {
+      "cancer": "myeloma",
+      "date": "2006-06-29",
+      "drug": "Lenalidomide",
+      "on_figure": true,
+      "indication": "With dexamethasone for multiple myeloma after at least one prior therapy",
+      "source_url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=147701",
+      "source_note": "FDA orphan-drug listing, marketing approval date 06/29/2006. This is the myeloma indication, not the 27 December 2005 myelodysplastic syndrome approval."
+    },
+    {
+      "cancer": "myeloma",
+      "date": "2015-11-16",
+      "drug": "Daratumumab",
+      "on_figure": true,
+      "indication": "Multiple myeloma after at least three prior lines, including a proteasome inhibitor and an immunomodulatory agent, or double-refractory",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/761036Orig1s000ltr.pdf",
+      "source_note": "FDA approval letter for BLA 761036. The letter states that the effective approval date remains November 16, 2015."
+    },
+    {
+      "cancer": "cll",
+      "date": "2014-02-12",
+      "drug": "Ibrutinib",
+      "on_figure": true,
+      "indication": "Chronic lymphocytic leukemia after at least one prior therapy",
+      "source_url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=368012",
+      "source_note": "FDA orphan-drug listing, marketing approval date 02/12/2014, for CLL after at least one prior therapy. The first Imbruvica approval, on 13 November 2013, was for mantle cell lymphoma."
+    },
+    {
+      "cancer": "cll",
+      "date": "2016-04-11",
+      "drug": "Venetoclax",
+      "on_figure": true,
+      "indication": "Chronic lymphocytic leukemia with 17p deletion after at least one prior therapy",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208573Orig1s000Approv.pdf",
+      "source_note": "FDA approval package for NDA 208573. The cover sheet gives the approval date as April 11, 2016."
+    },
+    {
+      "cancer": "nhl",
+      "date": "1997-11-26",
+      "drug": "Rituximab",
+      "on_figure": false,
+      "indication": "Relapsed or refractory low-grade or follicular, CD20-positive, B-cell non-Hodgkin lymphoma",
+      "source_url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=79793",
+      "source_note": "FDA orphan-drug listing, marketing approval date 11/26/1997. The date is before 2000, so it is not drawn."
+    },
+    {
+      "cancer": "nhl",
+      "date": "2019-06-10",
+      "drug": "Polatuzumab vedotin",
+      "on_figure": true,
+      "indication": "Relapsed or refractory diffuse large B-cell lymphoma after at least two prior therapies, with bendamustine and a rituximab product",
+      "source_url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=547416",
+      "source_note": "FDA orphan-drug listing, marketing approval date 06/10/2019. The Purple Book original approval date is 10 June 2019. The signed approval letter is dated 10 June 2019. The package cover also prints 6 June 2019. The figure uses 10 June 2019."
+    },
+    {
+      "cancer": "nhl",
+      "date": "2023-04-19",
+      "drug": "Polatuzumab vedotin",
+      "on_figure": false,
+      "indication": "Previously untreated diffuse large B-cell lymphoma, with a rituximab product, cyclophosphamide, doxorubicin, and prednisone, for an International Prognostic Index of 2 or greater",
+      "source_url": "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=547416",
+      "source_note": "Same FDA orphan-drug listing, a later marketing approval date of 04/19/2023. Five-year survival for 2023 diagnoses is not observed in this release, so the date is not drawn."
+    }
+  ],
+  "dropped_rows_note": "Parsed 2,418 rate rows from the API. The committed incidence file has 988 rows and the survival file has 456 rows. A row was dropped when the estimate was missing or the case count was under 16. Modeled survival for years without an observed 5-year rate was not copied into the survival file.",
+  "method": ["Each series is a SEER*Explorer render_region_5.php response. The body is a JSON string that itself contains JSON.", "Incidence recent trends use data_type 1 and graph_type 2. Survival recent trends use data_type 4 and graph_type 2, with relative_survival_interval 5.", "The comparison dimension is sex, race, or age. The other dimensions are fixed at all races, all ages, both sexes, and all stages, except where that dimension is the comparison.", "Observed incidence is rate_type 1. Delay-adjusted incidence is rate_type 2, kept for both sexes, all races, and all ages.", "Age bands in the committed files are all ages, under 50, 50 to 64, and 65 and older. The incidence control offers other bands. Those bands were not retained.", "Survival race groups in this endpoint are all races, White (includes Hispanic), and Black (includes Hispanic). Hispanic ethnicity and non-Hispanic race are not on the survival trend.", "A 5-year relative survival value is plotted and tabulated only when the observed rate and a case count of at least 16 are both present. The modeled rate is not used as a substitute.", "The gap is White (includes Hispanic) minus Black (includes Hispanic), in percentage points, for both sexes and all ages.", "Joinpoint segments are the ones SEER returned. This study does not refit them. Incidence trend_type 2 is the annual percent change. Average annual percent change rows were not kept.", "For survival, the JSON field named apc is the average absolute change in survival, in percentage points per year, as the SEER footnote defines it.", "FDA dates are context markers. Rituximab (26 November 1997) is before the axis. Polatuzumab vedotin's 19 April 2023 untreated-DLBCL approval is after the last observed 5-year survival year. Neither is drawn."],
+  "r_version": "4.3.3",
+  "packages": {
+    "ggplot2": "4.0.3",
+    "jsonlite": "2.0.0"
+  },
+  "quarto_note": "Case study renders with Quarto from seer-heme-survival-trends/docs."
+}
