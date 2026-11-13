@@ -9,6 +9,7 @@ renv/staging/
 # Respondent-level microdata and API caches. Aggregate files under output/ are kept.
 brfss-2022-sleep-fmd/data/
 faers-jak-tnf-signals/data/
+seer-heme-survival-trends/data/
 *.xpt
 *.XPT
 *.rds
